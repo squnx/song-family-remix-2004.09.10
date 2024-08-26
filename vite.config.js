@@ -7,4 +7,5 @@ export default defineConfig({
   server: {
     port: 5000
   },
+  publicDir: 'public', // Ensures Vite serves static files from 'public' directory
 })

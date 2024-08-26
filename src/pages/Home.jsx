@@ -3,37 +3,37 @@ import { Carousel } from 'react-bootstrap';
 const Home = () => {
   const carouselItems = [
     {
-      background: '/src/assets/images/hero-carousel/song-01.jpg',
+      background: '/assets/images/hero-carousel/song-01.jpg',
       title: 'Song Family',
       text: 'Making Memories Together',
       bgStyle: 'transparent-60',
     },
     {
-      background: '/src/assets/images/hero-carousel/phil-01.jpg',
+      background: '/assets/images/hero-carousel/phil-01.jpg',
       title: 'Phil Song',
       text: 'Putting for the Future',
       bgStyle: 'transparent-40',
     },
     {
-      background: '/src/assets/images/hero-carousel/andy-01.jpg',
+      background: '/assets/images/hero-carousel/andy-01.jpg',
       title: 'Andy Song',
       text: 'The All-Star Athlete',
       bgStyle: 'transparent-60',
     },
     {
-      background: '/src/assets/images/hero-carousel/terri-01.jpg',
+      background: '/assets/images/hero-carousel/terri-01.jpg',
       title: 'Terri Song',
       text: 'The Guardian Angel of our Family',
       bgStyle: 'transparent-90',
     },
     {
-      background: '/src/assets/images/hero-carousel/ivan-01.jpg',
+      background: '/assets/images/hero-carousel/ivan-01.jpg',
       title: 'Ivan Song',
       text: 'The Man, The Myth, The Dad',
       bgStyle: 'transparent-40',
     },
     {
-      background: '/src/assets/images/hero-carousel/phil-andy-01.jpg',
+      background: '/assets/images/hero-carousel/phil-andy-01.jpg',
       title: 'Phil & Andy',
       text: 'The Dynamic Duo',
       bgStyle: 'transparent-40',

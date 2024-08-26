@@ -14,7 +14,7 @@ function useScript(src) {
 }
 
 const Gallery = () => {
-  useScript('/src/assets/js/main-useScript.js');
+  useScript('/assets/js/main-useScript.js');
   
   return (
     <>
