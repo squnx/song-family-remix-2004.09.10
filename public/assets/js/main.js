@@ -15,6 +15,12 @@
     }
     mobileNavToggleBtn.addEventListener('click', mobileNavToogle);
 
+    document.addEventListener('click', (event) => {
+      if (!event.target.classList.contains('mobile-nav-toggle') && document.body.classList.contains('mobile-nav-active')) {
+        mobileNavToogle();
+      }
+    });
+
   }, 1500);
 
   /**
@@ -39,7 +45,6 @@
         mobileNavToogle();
       }
     });
-
   });
 
   /**
