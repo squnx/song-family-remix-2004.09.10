@@ -83,7 +83,7 @@ const Header = () => {
           <i className="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>
 
-        <div className="header-social-links">
+        <div className="header-social-links d-none d-sm-block">
           <a href="#" className="twitter"><i className="bi bi-twitter-x"></i></a>
           <a href="#" className="facebook"><i className="bi bi-facebook"></i></a>
           <a href="#" className="instagram"><i className="bi bi-instagram"></i></a>
