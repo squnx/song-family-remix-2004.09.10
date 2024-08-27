@@ -826,6 +826,13 @@
     "filter": "filter-family"
   },
   {
+    "src": "/assets/images/gallery/family/2006.08-candid-05a.jpg",
+    "title": "Candid Moments",
+    "description": "August 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
     "src": "/assets/images/gallery/family/2006.08-candid-06.jpg",
     "title": "Candid Moments",
     "description": "August 2006",
@@ -952,24 +959,339 @@
     "filter": "filter-piano"
   },
   {
+    "src": "/assets/images/gallery/family/2006.09-rose-hills-01.jpg",
+    "title": "Rose Hills",
+    "description": "September 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.09-rose-hills-02.jpg",
+    "title": "Rose Hills",
+    "description": "September 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.09-rose-hills-03.jpg",
+    "title": "Rose Hills",
+    "description": "September 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.09-rose-hills-04.jpg",
+    "title": "Rose Hills",
+    "description": "September 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.09-rose-hills-05.jpg",
+    "title": "Rose Hills",
+    "description": "September 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.10-cake-01.jpg",
+    "title": "Cake",
+    "description": "October 2006",
+    "gallery": "journey-gallery-cake",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.10-cake-02.jpg",
+    "title": "Cake",
+    "description": "October 2006",
+    "gallery": "journey-gallery-cake",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.10-cake-03.jpg",
+    "title": "Cake",
+    "description": "October 2006",
+    "gallery": "journey-gallery-cake",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.10-cake-04.jpg",
+    "title": "Cake",
+    "description": "October 2006",
+    "gallery": "journey-gallery-cake",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.10-cake-05.jpg",
+    "title": "Cake",
+    "description": "October 2006",
+    "gallery": "journey-gallery-cake",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.10-cake-06.jpg",
+    "title": "Cake",
+    "description": "October 2006",
+    "gallery": "journey-gallery-cake",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.10-cake-07.jpg",
+    "title": "Cake",
+    "description": "October 2006",
+    "gallery": "journey-gallery-cake",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.10-cake-08.jpg",
+    "title": "Cake",
+    "description": "October 2006",
+    "gallery": "journey-gallery-cake",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.10-cake-09.jpg",
+    "title": "Cake",
+    "description": "October 2006",
+    "gallery": "journey-gallery-cake",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.10-halloween-01.jpg",
+    "title": "Cake",
+    "description": "October 2006",
+    "gallery": "journey-gallery-halloween",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.10-halloween-02.jpg",
+    "title": "Cake",
+    "description": "October 2006",
+    "gallery": "journey-gallery-halloween",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.10-halloween-03.jpg",
+    "title": "Cake",
+    "description": "October 2006",
+    "gallery": "journey-gallery-halloween",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.10-halloween-04.jpg",
+    "title": "Cake",
+    "description": "October 2006",
+    "gallery": "journey-gallery-halloween",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.10-halloween-05.jpg",
+    "title": "Cake",
+    "description": "October 2006",
+    "gallery": "journey-gallery-halloween",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.10-halloween-06.jpg",
+    "title": "Cake",
+    "description": "October 2006",
+    "gallery": "journey-gallery-halloween",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.10-halloween-07.jpg",
+    "title": "Cake",
+    "description": "October 2006",
+    "gallery": "journey-gallery-halloween",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.10-halloween-08.jpg",
+    "title": "Cake",
+    "description": "October 2006",
+    "gallery": "journey-gallery-halloween",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2006.11-big-bear-01.jpg",
+    "title": "Big Bear",
+    "description": "November 2006",
+    "gallery": "journey-gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2006.11-big-bear-02.jpg",
+    "title": "Big Bear",
+    "description": "November 2006",
+    "gallery": "journey-gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2006.11-big-bear-03.jpg",
+    "title": "Big Bear",
+    "description": "November 2006",
+    "gallery": "journey-gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2006.11-big-bear-04.jpg",
+    "title": "Big Bear",
+    "description": "November 2006",
+    "gallery": "journey-gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2006.11-big-bear-05.jpg",
+    "title": "Big Bear",
+    "description": "November 2006",
+    "gallery": "journey-gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2006.11-big-bear-06.jpg",
+    "title": "Big Bear",
+    "description": "November 2006",
+    "gallery": "journey-gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2006.11-big-bear-07.jpg",
+    "title": "Big Bear",
+    "description": "November 2006",
+    "gallery": "journey-gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
     "src": "/assets/images/gallery/friends/2006.11-friends-01.jpg",
     "title": "Clair Family",
-    "description": "Nevember 2006",
+    "description": "November 2006",
     "gallery": "journey-gallery-friends",
     "filter": "filter-friends"
   },
   {
     "src": "/assets/images/gallery/friends/2006.11-friends-02.jpg",
     "title": "Thanksgiving",
-    "description": "Nevember 2006",
+    "description": "November 2006",
     "gallery": "journey-gallery-friends",
     "filter": "filter-friends"
   },
   {
-    "src": "/assets/images/gallery/school/2006.12-andy.jpg",
+    "src": "/assets/images/gallery/school/2006.12-andy-01.jpg",
     "title": "Wittmann Honor Award",
-    "description": "June 2006",
+    "description": "November 2006",
     "gallery": "journey-gallery-andy",
     "filter": "filter-school"
+  },
+  {
+    "src": "/assets/images/gallery/school/2006.12-andy-02.jpg",
+    "title": "Wittmann Honor Award",
+    "description": "November 2006",
+    "gallery": "journey-gallery-andy",
+    "filter": "filter-school"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.12-candid-01.jpg",
+    "title": "Candid Moments",
+    "description": "December 2006",
+    "gallery": "journey-gallery-candid",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.12-candid-02.jpg",
+    "title": "Candid Moments",
+    "description": "December 2006",
+    "gallery": "journey-gallery-candid",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.12-cake-01.jpg",
+    "title": "Cake",
+    "description": "December 2006",
+    "gallery": "journey-gallery-cake",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.12-cake-02.jpg",
+    "title": "Cake",
+    "description": "December 2006",
+    "gallery": "journey-gallery-cake",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.12-cake-03.jpg",
+    "title": "Cake",
+    "description": "December 2006",
+    "gallery": "journey-gallery-cake",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.12-cake-04.jpg",
+    "title": "Cake",
+    "description": "December 2006",
+    "gallery": "journey-gallery-cake",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.12-cake-05.jpg",
+    "title": "Cake",
+    "description": "December 2006",
+    "gallery": "journey-gallery-cake",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.12-family-01.jpg",
+    "title": "Dinner",
+    "description": "December 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.12-family-02.jpg",
+    "title": "Dinner",
+    "description": "December 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.12-family-03.jpg",
+    "title": "Dinner",
+    "description": "December 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.12-family-04.jpg",
+    "title": "Dinner",
+    "description": "December 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.12-christmas-01.jpg",
+    "title": "Christmas",
+    "description": "December 2006",
+    "gallery": "journey-gallery-christmas",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.12-christmas-02.jpg",
+    "title": "Christmas",
+    "description": "December 2006",
+    "gallery": "journey-gallery-christmas",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.12-christmas-03.jpg",
+    "title": "Christmas",
+    "description": "December 2006",
+    "gallery": "journey-gallery-christmas",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.12-christmas-04.jpg",
+    "title": "Christmas",
+    "description": "December 2006",
+    "gallery": "journey-gallery-christmas",
+    "filter": "filter-family"
   }
 ]

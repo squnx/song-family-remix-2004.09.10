@@ -10,6 +10,7 @@ import Story from './pages/Story';
 import Events from './pages/Events';
 import Gallery from './pages/Gallery';
 import Journey from './pages/Journey';
+import Contact from './pages/Contact';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
             <Route path="/events" element={<Events />} />
             <Route path="/gallery" element={<Gallery />} />
             <Route path="/journey" element={<Journey />} />
+            <Route path="/contact" element={<Contact />} />
           </Routes>
         </main>
         <Footer />

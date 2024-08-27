@@ -60,8 +60,7 @@ const Header = () => {
               <i className="bi bi-list mobile-nav-toggle"></i>
             </nav> */}
 
-
-            <li className="dropdown"><a href="#"><span>Dropdown</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
+            {/* <li className="dropdown"><a href="#"><span>Dropdown</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
               <ul>
                 <li><a href="#">Dropdown 1</a></li>
                 <li className="dropdown"><a href="#"><span>Deep Dropdown</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
@@ -77,8 +76,8 @@ const Header = () => {
                 <li><a href="#">Dropdown 3</a></li>
                 <li><a href="#">Dropdown 4</a></li>
               </ul>
-            </li>
-            <li><a href="contact.html">Contact</a></li>
+            </li> */}
+            <li><NavLink to="/contact" activeclassname="active">Contact</NavLink></li>
           </ul>
           <i className="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>
