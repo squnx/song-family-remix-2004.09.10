@@ -33,6 +33,7 @@ const Gallery = () => {
               <li data-filter=".filter-friends">Friends</li>
               <li data-filter=".filter-golf">Golf</li>
               <li data-filter=".filter-houses">Houses</li>
+              <li data-filter=".filter-piano">Piano</li>
               <li data-filter=".filter-school">School</li>
               <li data-filter=".filter-ski">Ski</li>
               <li data-filter=".filter-soccer">Soccer</li>
