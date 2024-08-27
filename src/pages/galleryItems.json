@@ -789,5 +789,124 @@
     "description": "2006",
     "gallery": "journey-gallery-swimming",
     "filter": "filter-swimming"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.08-candid-01.jpg",
+    "title": "Candid Moments",
+    "description": "August 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.08-candid-02.jpg",
+    "title": "Candid Moments",
+    "description": "August 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.08-candid-03.jpg",
+    "title": "Candid Moments",
+    "description": "August 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.08-candid-04.jpg",
+    "title": "Candid Moments",
+    "description": "August 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.08-candid-05.jpg",
+    "title": "Candid Moments",
+    "description": "August 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.08-candid-06.jpg",
+    "title": "Candid Moments",
+    "description": "August 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.08-candid-07.jpg",
+    "title": "Candid Moments",
+    "description": "August 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.08-candid-08.jpg",
+    "title": "Candid Moments",
+    "description": "August 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.08-candid-09.jpg",
+    "title": "Candid Moments",
+    "description": "August 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.08-candid-10.jpg",
+    "title": "Candid Moments",
+    "description": "August 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.08-candid-11.jpg",
+    "title": "Candid Moments",
+    "description": "August 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.08-candid-12.jpg",
+    "title": "Candid Moments",
+    "description": "August 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.08-candid-13.jpg",
+    "title": "Candid Moments",
+    "description": "August 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2006.08-candid-14.jpg",
+    "title": "Candid Moments",
+    "description": "August 2006",
+    "gallery": "journey-gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2006.11-friends-01.jpg",
+    "title": "Clair Family",
+    "description": "Nevember 2006",
+    "gallery": "journey-gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2006.11-friends-02.jpg",
+    "title": "Thanksgiving",
+    "description": "Nevember 2006",
+    "gallery": "journey-gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/school/2006.12-andy.jpg",
+    "title": "Wittmann Honor Award",
+    "description": "June 2006",
+    "gallery": "journey-gallery-andy",
+    "filter": "filter-school"
   }
 ]
