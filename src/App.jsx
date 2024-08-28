@@ -8,6 +8,7 @@ import Home2 from './pages/Home2';
 import Home3 from './pages/Home3';
 import Story from './pages/Story';
 import Events from './pages/Events';
+import Activity from './pages/Activity';
 import Gallery from './pages/Gallery';
 import Journey from './pages/Journey';
 import Contact from './pages/Contact';
@@ -24,6 +25,7 @@ function App() {
             <Route path="/home3" element={<Home3 />} />
             <Route path="/our-story" element={<Story />} />
             <Route path="/events" element={<Events />} />
+            <Route path="/activity" element={<Activity />} />
             <Route path="/gallery" element={<Gallery />} />
             <Route path="/journey" element={<Journey />} />
             <Route path="/contact" element={<Contact />} />
