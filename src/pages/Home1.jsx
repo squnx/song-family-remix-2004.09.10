@@ -1,21 +1,13 @@
-import React, { useState } from 'react';
 import { Carousel } from 'react-bootstrap';
 
 const Home = () => {
-  const [animate, setAnimate] = useState(true);
-
-  const handleSlideChange = () => {
-    setAnimate(false);
-    setTimeout(() => setAnimate(true), 50); // Small delay to reset the animation
-  };
-
   const carouselItems = [
     {
       background: '/assets/images/hero-carousel/song-01.jpg',
       title: 'Song Family',
       text: 'Making Memories Together',
       bgStyle: 'transparent-60',
-    },,
+    },
     {
       background: '/assets/images/hero-carousel/phil-01.jpg',
       title: 'Phil Song',
@@ -49,28 +41,32 @@ const Home = () => {
   ];
 
   return (
-    <section id="hero" className="hero section">
-      <div className="hero-container">
-        <Carousel fade interval={4000} controls indicators={true} pause={false} onSlide={handleSlideChange}>
-          {carouselItems.map((item, index) => (
-            <Carousel.Item key={index} className={item.bgStyle}>
-              <div className="carousel-container">
-                <img src={item.background} alt="" data-aos="fade-in" />
-                <div className={`container text-center ${animate ? 'zoom-out' : ''}`}>
-                  <div className="row justify-content-center">
-                    <div className="col-lg-8">
-                      <h2>{item.title}</h2>
-                      <p>{item.text}</p>
+    <>
+      {/* Hero Section */}
+      <section id="hero" className="hero section">
+        <div className="hero-container">
+          <Carousel fade interval={4000} controls indicators={true} pause={false}>
+            {carouselItems.map((item, index) => (
+              <Carousel.Item key={index} className={item.bgStyle}>
+                <div className="carousel-container">
+                  <img src={item.background} alt="" data-aos="fade-in" />
+                  <div className="container text-center" data-aos="zoom-out" data-aos-delay="100">
+                    <div className="row justify-content-center">
+                      <div className="col-lg-8">
+                        <h2>{item.title}</h2>
+                        <p>{item.text}</p>
+                        {/* <a href="about.html" className="btn-get-started">About Me</a> */}
+                      </div>
                     </div>
                   </div>
                 </div>
-              </div>
-            </Carousel.Item>
-          ))}
-        </Carousel>
-      </div>
-    </section>
-  );
-};
+              </Carousel.Item>
+            ))}
+          </Carousel>
+        </div>
+      </section>
+    </>
+  )
+}
 
-export default Home;
+export default Home

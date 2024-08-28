@@ -593,6 +593,19 @@ section, .section {
     z-index: 1;
   }
 
+  .zoom-out {
+    transform: scale(1.2); /* Start with a slightly larger scale */
+    opacity: 0; /* Start with full transparency */
+    animation: zoomOutAnimation 1.5s forwards;
+  }
+
+  @keyframes zoomOutAnimation {
+    to {
+      transform: scale(1); /* End at normal scale */
+      opacity: 1; /* End at full opacity */
+    }
+  }
+
   .container {
     position: relative;
     z-index: 3;

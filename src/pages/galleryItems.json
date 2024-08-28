@@ -998,116 +998,116 @@
     "title": "Cake",
     "description": "October 2006",
     "gallery": "journey-gallery-cake",
-    "filter": "filter-family"
+    "filter": "filter-cake"
   },
   {
     "src": "/assets/images/gallery/family/2006.10-cake-02.jpg",
     "title": "Cake",
     "description": "October 2006",
     "gallery": "journey-gallery-cake",
-    "filter": "filter-family"
+    "filter": "filter-cake"
   },
   {
     "src": "/assets/images/gallery/family/2006.10-cake-03.jpg",
     "title": "Cake",
     "description": "October 2006",
     "gallery": "journey-gallery-cake",
-    "filter": "filter-family"
+    "filter": "filter-cake"
   },
   {
     "src": "/assets/images/gallery/family/2006.10-cake-04.jpg",
     "title": "Cake",
     "description": "October 2006",
     "gallery": "journey-gallery-cake",
-    "filter": "filter-family"
+    "filter": "filter-cake"
   },
   {
     "src": "/assets/images/gallery/family/2006.10-cake-05.jpg",
     "title": "Cake",
     "description": "October 2006",
     "gallery": "journey-gallery-cake",
-    "filter": "filter-family"
+    "filter": "filter-cake"
   },
   {
     "src": "/assets/images/gallery/family/2006.10-cake-06.jpg",
     "title": "Cake",
     "description": "October 2006",
     "gallery": "journey-gallery-cake",
-    "filter": "filter-family"
+    "filter": "filter-cake"
   },
   {
     "src": "/assets/images/gallery/family/2006.10-cake-07.jpg",
     "title": "Cake",
     "description": "October 2006",
     "gallery": "journey-gallery-cake",
-    "filter": "filter-family"
+    "filter": "filter-cake"
   },
   {
     "src": "/assets/images/gallery/family/2006.10-cake-08.jpg",
     "title": "Cake",
     "description": "October 2006",
     "gallery": "journey-gallery-cake",
-    "filter": "filter-family"
+    "filter": "filter-cake"
   },
   {
     "src": "/assets/images/gallery/family/2006.10-cake-09.jpg",
     "title": "Cake",
     "description": "October 2006",
     "gallery": "journey-gallery-cake",
-    "filter": "filter-family"
+    "filter": "filter-cake"
   },
   {
     "src": "/assets/images/gallery/family/2006.10-halloween-01.jpg",
-    "title": "Cake",
+    "title": "Halloween",
     "description": "October 2006",
     "gallery": "journey-gallery-halloween",
     "filter": "filter-family"
   },
   {
     "src": "/assets/images/gallery/family/2006.10-halloween-02.jpg",
-    "title": "Cake",
+    "title": "Halloween",
     "description": "October 2006",
     "gallery": "journey-gallery-halloween",
     "filter": "filter-family"
   },
   {
     "src": "/assets/images/gallery/family/2006.10-halloween-03.jpg",
-    "title": "Cake",
+    "title": "Halloween",
     "description": "October 2006",
     "gallery": "journey-gallery-halloween",
     "filter": "filter-family"
   },
   {
     "src": "/assets/images/gallery/family/2006.10-halloween-04.jpg",
-    "title": "Cake",
+    "title": "Halloween",
     "description": "October 2006",
     "gallery": "journey-gallery-halloween",
     "filter": "filter-family"
   },
   {
     "src": "/assets/images/gallery/family/2006.10-halloween-05.jpg",
-    "title": "Cake",
+    "title": "Halloween",
     "description": "October 2006",
     "gallery": "journey-gallery-halloween",
     "filter": "filter-family"
   },
   {
     "src": "/assets/images/gallery/family/2006.10-halloween-06.jpg",
-    "title": "Cake",
+    "title": "Halloween",
     "description": "October 2006",
     "gallery": "journey-gallery-halloween",
     "filter": "filter-family"
   },
   {
     "src": "/assets/images/gallery/family/2006.10-halloween-07.jpg",
-    "title": "Cake",
+    "title": "Halloween",
     "description": "October 2006",
     "gallery": "journey-gallery-halloween",
     "filter": "filter-family"
   },
   {
     "src": "/assets/images/gallery/family/2006.10-halloween-08.jpg",
-    "title": "Cake",
+    "title": "Halloween",
     "description": "October 2006",
     "gallery": "journey-gallery-halloween",
     "filter": "filter-family"
@@ -1208,35 +1208,35 @@
     "title": "Cake",
     "description": "December 2006",
     "gallery": "journey-gallery-cake",
-    "filter": "filter-family"
+    "filter": "filter-cake"
   },
   {
     "src": "/assets/images/gallery/family/2006.12-cake-02.jpg",
     "title": "Cake",
     "description": "December 2006",
     "gallery": "journey-gallery-cake",
-    "filter": "filter-family"
+    "filter": "filter-cake"
   },
   {
     "src": "/assets/images/gallery/family/2006.12-cake-03.jpg",
     "title": "Cake",
     "description": "December 2006",
     "gallery": "journey-gallery-cake",
-    "filter": "filter-family"
+    "filter": "filter-cake"
   },
   {
     "src": "/assets/images/gallery/family/2006.12-cake-04.jpg",
     "title": "Cake",
     "description": "December 2006",
     "gallery": "journey-gallery-cake",
-    "filter": "filter-family"
+    "filter": "filter-cake"
   },
   {
     "src": "/assets/images/gallery/family/2006.12-cake-05.jpg",
     "title": "Cake",
     "description": "December 2006",
     "gallery": "journey-gallery-cake",
-    "filter": "filter-family"
+    "filter": "filter-cake"
   },
   {
     "src": "/assets/images/gallery/family/2006.12-family-01.jpg",
@@ -1293,5 +1293,96 @@
     "description": "December 2006",
     "gallery": "journey-gallery-christmas",
     "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/ski/2006.12-yosemite-01.jpg",
+    "title": "Badger Pass",
+    "description": "December 2006",
+    "gallery": "journey-gallery-badger-pass",
+    "filter": "filter-ski"
+  },
+  {
+    "src": "/assets/images/gallery/ski/2006.12-yosemite-02.jpg",
+    "title": "Badger Pass",
+    "description": "December 2006",
+    "gallery": "journey-gallery-badger-pass",
+    "filter": "filter-ski"
+  },
+  {
+    "src": "/assets/images/gallery/ski/2006.12-yosemite-03.jpg",
+    "title": "Badger Pass",
+    "description": "December 2006",
+    "gallery": "journey-gallery-badger-pass",
+    "filter": "filter-ski"
+  },
+  {
+    "src": "/assets/images/gallery/ski/2006.12-yosemite-04.jpg",
+    "title": "Badger Pass",
+    "description": "December 2006",
+    "gallery": "journey-gallery-badger-pass",
+    "filter": "filter-ski"
+  },
+  {
+    "src": "/assets/images/gallery/ski/2006.12-yosemite-05.jpg",
+    "title": "Badger Pass",
+    "description": "December 2006",
+    "gallery": "journey-gallery-badger-pass",
+    "filter": "filter-ski"
+  },
+  {
+    "src": "/assets/images/gallery/ski/2006.12-yosemite-06.jpg",
+    "title": "Badger Pass",
+    "description": "December 2006",
+    "gallery": "journey-gallery-badger-pass",
+    "filter": "filter-ski"
+  },
+  {
+    "src": "/assets/images/gallery/ski/2006.12-yosemite-07.jpg",
+    "title": "Badger Pass",
+    "description": "December 2006",
+    "gallery": "journey-gallery-badger-pass",
+    "filter": "filter-ski"
+  },
+  {
+    "src": "/assets/images/gallery/ski/2006.12-yosemite-08.jpg",
+    "title": "Badger Pass",
+    "description": "December 2006",
+    "gallery": "journey-gallery-badger-pass",
+    "filter": "filter-ski"
+  },
+  {
+    "src": "/assets/images/gallery/ski/2006.12-yosemite-09.jpg",
+    "title": "Badger Pass",
+    "description": "December 2006",
+    "gallery": "journey-gallery-badger-pass",
+    "filter": "filter-ski"
+  },
+  {
+    "src": "/assets/images/gallery/ski/2006.12-yosemite-10.jpg",
+    "title": "Badger Pass",
+    "description": "December 2006",
+    "gallery": "journey-gallery-badger-pass",
+    "filter": "filter-ski"
+  },
+  {
+    "src": "/assets/images/gallery/ski/2006.12-yosemite-11.jpg",
+    "title": "Badger Pass",
+    "description": "December 2006",
+    "gallery": "journey-gallery-badger-pass",
+    "filter": "filter-ski"
+  },
+  {
+    "src": "/assets/images/gallery/ski/2006.12-yosemite-12.jpg",
+    "title": "Badger Pass",
+    "description": "December 2006",
+    "gallery": "journey-gallery-badger-pass",
+    "filter": "filter-ski"
+  },
+  {
+    "src": "/assets/images/gallery/ski/2006.12-yosemite-13.jpg",
+    "title": "Badger Pass",
+    "description": "December 2006",
+    "gallery": "journey-gallery-badger-pass",
+    "filter": "filter-ski"
   }
 ]

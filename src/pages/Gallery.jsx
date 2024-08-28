@@ -29,6 +29,7 @@ const Gallery = () => {
             <ul className="gallery-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
               <li data-filter="*" className="filter-active">All</li>
               <li data-filter=".filter-baseball">Baseball</li>
+              <li data-filter=".filter-cake">Cake</li>
               <li data-filter=".filter-family">Family</li>
               <li data-filter=".filter-friends">Friends</li>
               <li data-filter=".filter-golf">Golf</li>
