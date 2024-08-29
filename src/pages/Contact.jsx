@@ -2,8 +2,12 @@
 const Contact = () => {
   return (
     <>
-    <h1>Our Contact Page</h1>
-    <p>Welcome to the Our Contact page!</p>
+      {/* Contact Section */}
+      <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', height: '60vh', fontFamily: 'Arial, sans-serif', textAlign: 'center' }}>
+        <h1>Contact Page</h1>
+        <p>Coming Soon!</p>
+        <p>We are working on something amazing. Stay tuned!</p>
+      </div>
     </>
   );
 }
