@@ -4,6 +4,7 @@ import './scss/main.scss'
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Home from './pages/Home';
+import Home1 from './pages/Home1';
 import Home2 from './pages/Home2';
 import Home3 from './pages/Home3';
 import Story from './pages/Story';
@@ -21,6 +22,7 @@ function App() {
         <main className="main">
           <Routes>
             <Route path="/" element={<Home />} />
+            <Route path="/home1" element={<Home1 />} />
             <Route path="/home2" element={<Home2 />} />
             <Route path="/home3" element={<Home3 />} />
             <Route path="/our-story" element={<Story />} />

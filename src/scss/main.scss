@@ -51,10 +51,13 @@ h6 {
     }
 
     h1 {
-      font-size: 36px;
+      font-size: 20px;
       font-family: "Grey Qo", cursive;
+      font-optical-sizing: auto;
+      // font-family: "Courgette", cursive;
       font-weight: 400;
       font-style: normal;
+      font-family: "Merienda", cursive;
       margin: 0;
       font-weight: bold;
       // text-transform: uppercase;
@@ -613,12 +616,18 @@ section, .section {
 
   h2 {
     margin: 0;
+    font-family: "Merienda", cursive;
+    font-family: "Courgette", cursive;
+    font-optical-sizing: auto;
     font-size: 48px;
     font-weight: 700;
   }
 
   p {
     margin: 10px 0 0 0;
+    font-family: "Merienda", cursive;
+    font-family: "Courgette", cursive;
+    font-optical-sizing: auto;
     font-size: 24px;
     color: var(--heading-color);
   }
