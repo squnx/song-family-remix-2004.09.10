@@ -51,7 +51,7 @@ const Home = () => {
   return (
     <section id="hero" className="hero section">
       <div className="hero-container">
-        <Carousel fade interval={4000} controls indicators={true} pause={false} onSlide={handleSlideChange}>
+        <Carousel fade interval={5000} controls indicators={true} pause={false} onSlide={handleSlideChange}>
           {carouselItems.map((item, index) => (
             <Carousel.Item key={index} className={item.bgStyle}>
               <div className="carousel-container">

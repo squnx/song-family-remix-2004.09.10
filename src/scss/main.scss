@@ -275,7 +275,7 @@ h6 {
 @media (max-width: 1199px) {
   .mobile-nav-toggle {
     color: var(--nav-color);
-    font-size: 48px;
+    font-size: 28px;
     line-height: 0;
     margin-right: 10px;
     cursor: pointer;
@@ -626,8 +626,8 @@ section, .section {
   p {
     margin: 10px 0 0 0;
     font-family: "Merienda", cursive;
-    font-family: "Courgette", cursive;
-    font-optical-sizing: auto;
+    // font-family: "Courgette", cursive;
+    // font-optical-sizing: auto;
     font-size: 24px;
     color: var(--heading-color);
   }
@@ -857,7 +857,7 @@ section, .section {
 
 @media (max-width: 768px) {
   #hero h2 {
-    font-size: 48px;
+    font-size: 28px;
   }
 }
 
@@ -971,7 +971,7 @@ section, .section {
 
       .details-link {
         right: 14px;
-        font-size: 48px;
+        font-size: 28px;
         &:hover {
           color: var(--accent-color);
         }
