@@ -1004,15 +1004,29 @@
     "src": "/assets/images/gallery/friends/2007.08-korea-hyatt-01.jpg",
     "title": "Korea (Hyatt Hotel)",
     "description": "August 2007",
-    "gallery": "gallery-hyatt",
+    "gallery": "gallery-friends",
     "filter": "filter-friends"
   },
   {
     "src": "/assets/images/gallery/friends/2007.08-korea-hyatt-02.jpg",
     "title": "Korea (Hyatt Hotel)",
     "description": "August 2007",
-    "gallery": "gallery-hyatt",
+    "gallery": "gallery-friends",
     "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/school/2007.11-andy-01.jpg",
+    "title": "Character Counts Award",
+    "description": "November 2007",
+    "gallery": "gallery-school",
+    "filter": "filter-school"
+  },
+  {
+    "src": "/assets/images/gallery/school/2007.11-andy-02.jpg",
+    "title": "Character Counts Award",
+    "description": "November 2007",
+    "gallery": "gallery-school",
+    "filter": "filter-school"
   },
   {
     "src": "/assets/images/gallery/family/2007.12-disney-concert-01.jpg",
@@ -1075,6 +1089,132 @@
     "title": "Andy's birthday",
     "description": "February 2008",
     "gallery": "gallery-andy-birthday",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2008.05-frends-01.jpg",
+    "title": "Friendship Captured",
+    "description": "May 2008",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2008.05-frends-02.jpg",
+    "title": "Friendship Captured",
+    "description": "May 2008",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2008.05-frends-03.jpg",
+    "title": "Friendship Captured",
+    "description": "May 2008",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2008.05-frends-04.jpg",
+    "title": "Friendship Captured",
+    "description": "May 2008",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2008.05-frends-05.jpg",
+    "title": "Friendship Captured",
+    "description": "May 2008",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/school/2008.05-school-01.jpg",
+    "title": "Candid Moments",
+    "description": "May 2008",
+    "gallery": "gallery-school",
+    "filter": "filter-school"
+  },
+  {
+    "src": "/assets/images/gallery/school/2008.05-school-02.jpg",
+    "title": "Candid Moments",
+    "description": "May 2008",
+    "gallery": "gallery-school",
+    "filter": "filter-school"
+  },
+  {
+    "src": "/assets/images/gallery/school/2008.05-school-03.jpg",
+    "title": "Candid Moments",
+    "description": "May 2008",
+    "gallery": "gallery-school",
+    "filter": "filter-school"
+  },
+  {
+    "src": "/assets/images/gallery/school/2008.05-school-04.jpg",
+    "title": "Candid Moments",
+    "description": "May 2008",
+    "gallery": "gallery-school",
+    "filter": "filter-school"
+  },
+  {
+    "src": "/assets/images/gallery/school/2008.05-school-05.jpg",
+    "title": "Candid Moments",
+    "description": "May 2008",
+    "gallery": "gallery-school",
+    "filter": "filter-school"
+  },
+  {
+    "src": "/assets/images/gallery/school/2008.05-school-06.jpg",
+    "title": "Candid Moments",
+    "description": "May 2008",
+    "gallery": "gallery-school",
+    "filter": "filter-school"
+  },
+  {
+    "src": "/assets/images/gallery/school/2008.05-school-07.jpg",
+    "title": "Candid Moments",
+    "description": "May 2008",
+    "gallery": "gallery-school",
+    "filter": "filter-school"
+  },
+  {
+    "src": "/assets/images/gallery/school/2008.05-school-08.jpg",
+    "title": "Candid Moments",
+    "description": "May 2008",
+    "gallery": "gallery-school",
+    "filter": "filter-school"
+  },
+  {
+    "src": "/assets/images/gallery/school/2008.05-school-09.jpg",
+    "title": "Candid Moments",
+    "description": "May 2008",
+    "gallery": "gallery-school",
+    "filter": "filter-school"
+  },
+  {
+    "src": "/assets/images/gallery/school/2008.05-school-10.jpg",
+    "title": "Candid Moments",
+    "description": "May 2008",
+    "gallery": "gallery-school",
+    "filter": "filter-school"
+  },
+  {
+    "src": "/assets/images/gallery/family/2008.05-phil.jpg",
+    "title": "Candid Moments",
+    "description": "May 2008",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2008.08-01.jpg",
+    "title": "Candid Moments",
+    "description": "August 2008",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2008.08-02.jpg",
+    "title": "Candid Moments",
+    "description": "August 2008",
+    "gallery": "gallery-family",
     "filter": "filter-family"
   }
 ]
