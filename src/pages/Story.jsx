@@ -7,7 +7,7 @@ const Story = () => {
   return (
     <>
       {/* Our Story Section */}
-      <section id="about" className="about section">
+      <section id="story" className="story section">
         <div className="container section-title" data-aos="fade-up">
           <h2>Our Story</h2>
           <p>Our Journey from Then to Now</p>
@@ -45,7 +45,8 @@ const Story = () => {
         </div>
       </section>
 
-      <section id="testimonials" className="testimonials section">
+      <section id="reflections" className="reflections section">
+      <img src="/assets/images/our-story/bg-reflections.jpg" className="reflections-bg" alt="" />
         <div className="container section-title" data-aos="fade-up">
           <h2>Family Reflections</h2>
           <p>Cherishing the moments that define us.</p>
@@ -62,13 +63,13 @@ const Story = () => {
             pagination={{
               clickable: true,
             }}
-            navigation={true}
+            navigation={false}
             modules={[Autoplay, Pagination, Navigation]}
             className="mySwiper"
           >
           <SwiperSlide>
-            <div className="testimonial-item">
-              <img src="/assets/images/our-story/ivan_300x300.jpg" className="testimonial-img" alt="Saul Goodman" />
+            <div className="reflection-item">
+              <img src="/assets/images/our-story/ivan_300x300.jpg" className="reflection-img" alt="Saul Goodman" />
               <h3>Ivan Song</h3>
               <h4>Software Engineer &amp; Freelancer</h4>
               <p>
@@ -79,8 +80,8 @@ const Story = () => {
             </div>
           </SwiperSlide>
           <SwiperSlide>
-            <div className="testimonial-item">
-              <img src="/assets/images/our-story/terri_140x140.jpg" className="testimonial-img" alt="Saul Goodman" />
+            <div className="reflection-item">
+              <img src="/assets/images/our-story/terri_140x140.jpg" className="reflection-img" alt="Saul Goodman" />
               <h3>Terri Song</h3>
               <h4>RN @ UCI Medical Center</h4>
               <p>
@@ -91,8 +92,8 @@ const Story = () => {
             </div>
           </SwiperSlide>
             <SwiperSlide>
-              <div className="testimonial-item">
-                <img src="/assets/images/our-story/phil_400x400.jpg" className="testimonial-img" alt="Saul Goodman" />
+              <div className="reflection-item">
+                <img src="/assets/images/our-story/phil_400x400.jpg" className="reflection-img" alt="Saul Goodman" />
                 <h3>Phil Song</h3>
                 <h4>Business Development Representative @ Tab Commerce</h4>
                 <p>
@@ -103,8 +104,8 @@ const Story = () => {
               </div>
             </SwiperSlide>
             <SwiperSlide>
-              <div className="testimonial-item">
-                <img src="/assets/images/our-story/andy_400x400.jpg" className="testimonial-img" alt="Sara Wilsson" />
+              <div className="reflection-item">
+                <img src="/assets/images/our-story/andy_400x400.jpg" className="reflection-img" alt="Sara Wilsson" />
                 <h3>Andy Song</h3>
                 <h4>Account Executive @ Amazon</h4>
                 <p>

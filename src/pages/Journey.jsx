@@ -38,7 +38,8 @@ const Journey = () => {
               <li data-filter=".filter-nevada">Nevada</li>
               <li data-filter=".filter-loscabos">Los Cabos</li>
               <li data-filter=".filter-seattle">Seattle</li>
-              <li data-filter=".filter-yellowstone">Yellowstone</li>
+              <li data-filter=".filter-wyoming">Wyoming</li>
+              {/* <li data-filter=".filter-yellowstone">Yellowstone</li> */}
             </ul>
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
               {journeyItems.map((item, index) => (
