@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './scss/main.scss'
+import './scss/main.scss';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Home from './pages/Home';
@@ -13,11 +13,13 @@ import Activity from './pages/Activity';
 import Gallery from './pages/Gallery';
 import Journey from './pages/Journey';
 import Contact from './pages/Contact';
+import ScrollToTop from './components/ScrollToTop';
 
 function App() {
   return (
     <Router>
-      <div className="App app-container">
+      <ScrollToTop />
+      <div id="top" className="App app-container">
         <Header />
         <main className="main">
           <Routes>
@@ -36,7 +38,7 @@ function App() {
         <Footer />
       </div>
     </Router>
-  )
+  );
 }
 
-export default App
+export default App;

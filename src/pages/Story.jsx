@@ -74,7 +74,7 @@ const Story = () => {
               <h4>Software Engineer &amp; Freelancer</h4>
               <p>
                 <i className="bi bi-quote quote-icon-left"></i>
-                <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
+                <span>As the father of this wonderful family, I've witnessed firsthand our incredible journey together. From building our lives to raising our children, every moment has been a blessing. I'm grateful for my wife Terri's love and support, and for the amazing people our children have become. I look forward to making more memories together.</span>
                 <i className="bi bi-quote quote-icon-right"></i>
               </p>
             </div>
@@ -86,7 +86,7 @@ const Story = () => {
               <h4>RN @ UCI Medical Center</h4>
               <p>
                 <i className="bi bi-quote quote-icon-left"></i>
-                <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
+                <span>As the mother of this amazing family, I've watched our children grow into incredible individuals. Our journey together has been filled with love and laughter. I'm grateful for Ivan's support and the bond we share with our children. I'm excited to see what the future holds for our family and the new memories we'll create together.</span>
                 <i className="bi bi-quote quote-icon-right"></i>
               </p>
             </div>
