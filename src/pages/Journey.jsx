@@ -27,17 +27,18 @@ const Journey = () => {
         <div className="container">
           <div className="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
             <ul className="gallery-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
-              <li data-filter="*" className="filter-active">All</li>
+              {/* <li data-filter="*" className="filter-active">All</li> */}
               <li data-filter=".filter-arizona">Arizona</li>
-              <li data-filter=".filter-atlanta">Atlanta</li>
-              <li data-filter=".filter-california">California</li>
+              <li data-filter=".filter-california" className="filter-active">California</li>
               <li data-filter=".filter-cancun">Cancun</li>
               <li data-filter=".filter-ensenada">Ensenada</li>
+              <li data-filter=".filter-georgia">Georgia</li>
               <li data-filter=".filter-hawaii">Hawaii</li>
               <li data-filter=".filter-korea">Korea</li>
               <li data-filter=".filter-nevada">Nevada</li>
               <li data-filter=".filter-loscabos">Los Cabos</li>
-              <li data-filter=".filter-seattle">Seattle</li>
+              <li data-filter=".filter-utah">Utah</li>
+              <li data-filter=".filter-washington">Washington</li>
               <li data-filter=".filter-wyoming">Wyoming</li>
               {/* <li data-filter=".filter-yellowstone">Yellowstone</li> */}
             </ul>
