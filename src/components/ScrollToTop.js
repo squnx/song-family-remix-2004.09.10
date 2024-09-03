@@ -1,3 +1,4 @@
+// To ensure that the page scrolls to the top when navigating between routes
 import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 

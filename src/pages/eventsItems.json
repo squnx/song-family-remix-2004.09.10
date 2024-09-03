@@ -1,576 +1,275 @@
 [
   {
-    "src": "/src/assets/images/events/family/2003-burbank-01.jpg",
-    "title": "Hollywood Bowl",
-    "description": "2003",
-    "gallery": "journey-gallery-burbank",
-    "filter": "filter-family"
+    "src": "/assets/images/events/1st-birthday/2000.02-andy-01.jpg",
+    "title": "Welcome to the world!",
+    "description": "February 2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
   },
   {
-    "src": "/src/assets/images/events/family/2003-burbank-02.jpg",
-    "title": "Burbank, CA",
-    "description": "2003",
-    "gallery": "journey-gallery-burbank",
-    "filter": "filter-family"
+    "src": "/assets/images/events/1st-birthday/2000.02-andy-02.jpg",
+    "title": "A new chapter begins!",
+    "description": "February 2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
   },
   {
-    "src": "/src/assets/images/events/family/2003-burbank-03.jpg",
-    "title": "Burbank, CA",
-    "description": "2003",
-    "gallery": "journey-gallery-burbank",
-    "filter": "filter-family"
+    "src": "/assets/images/events/1st-birthday/2000.02-andy-03.jpg",
+    "title": "So small, so precious!",
+    "description": "February 2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
   },
   {
-    "src": "/src/assets/images/events/family/2003-burbank-04.jpg",
-    "title": "Burbank, CA",
-    "description": "2003",
-    "gallery": "journey-gallery-burbank",
-    "filter": "filter-family"
+    "src": "/assets/images/events/1st-birthday/2000.06-andy-01.jpg",
+    "title": "100 days of cuteness!",
+    "description": "June 2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
   },
   {
-    "src": "/src/assets/images/events/family/2003-burbank-05.jpg",
-    "title": "Burbank, CA",
-    "description": "2003",
-    "gallery": "journey-gallery-burbank",
-    "filter": "filter-family"
+    "src": "/assets/images/events/1st-birthday/2000.06-andy-02.jpg",
+    "title": "100 days of smile",
+    "description": "June 2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
   },
   {
-    "src": "/src/assets/images/events/baseball/2004-whitesox-01.jpg",
-    "title": "White Sox",
-    "description": "2004",
-    "gallery": "journey-gallery-baseball",
-    "filter": "filter-baseball"
+    "src": "/assets/images/events/1st-birthday/2001.02-andy-01.jpg",
+    "title": "One wonderful year",
+    "description": "June 2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
   },
   {
-    "src": "/src/assets/images/events/baseball/2004-whitesox-02.jpg",
-    "title": "White Sox",
-    "description": "2004",
-    "gallery": "journey-gallery-baseball",
-    "filter": "filter-baseball"
+    "src": "/assets/images/events/1st-birthday/2001.02-andy-02.jpg",
+    "title": "Happy first birthday!",
+    "description": "June 2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
   },
   {
-    "src": "/src/assets/images/events/baseball/2004-whitesox-03.jpg",
-    "title": "White Sox",
-    "description": "2004",
-    "gallery": "journey-gallery-baseball",
-    "filter": "filter-baseball"
+    "src": "/assets/images/events/1st-birthday/2001.02-andy-03.jpg",
+    "title": "A year of love and joy",
+    "description": "June 2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
   },
   {
-    "src": "/src/assets/images/events/baseball/2004-andy-01.jpg",
-    "title": "Andy Song",
-    "description": "2004",
-    "gallery": "journey-gallery-baseball",
-    "filter": "filter-baseball"
+    "src": "/assets/images/events/1st-birthday/2001.02-andy-04.jpg",
+    "title": "Our family is complete!",
+    "description": "June 2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
   },
   {
-    "src": "/src/assets/images/events/baseball/2004-andy-02.jpg",
-    "title": "Andy Song",
-    "description": "2004",
-    "gallery": "journey-gallery-baseball",
-    "filter": "filter-baseball"
+    "src": "/assets/images/events/1st-birthday/2001.andy-01.jpg",
+    "title": "Growing up so fast!",
+    "description": "2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
   },
   {
-    "src": "/src/assets/images/events/school/2004-phil-1-grade.jpg",
-    "title": "Phil's 1st grade",
-    "description": "2004",
-    "gallery": "journey-gallery-phil",
-    "filter": "filter-school"
+    "src": "/assets/images/events/1st-birthday/2000.family-01.jpg",
+    "title": "Three generations of love",
+    "description": "February 2000",
+    "gallery": "events-1st-birthday",
+    "filter": "filter-1st-birthday"
   },
   {
-    "src": "/src/assets/images/events/school/2004-andy-steppingstone-01.jpg",
-    "title": "Stepping Stone",
-    "description": "2004",
-    "gallery": "journey-gallery-andy",
-    "filter": "filter-school"
+    "src": "/assets/images/gallery/family/2006.03-parents-01.jpg",
+    "title": "In Memory of Grandpa",
+    "description": "March 2003",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/school/2004-andy-steppingstone-02.jpg",
-    "title": "Stepping Stone",
-    "description": "2004",
-    "gallery": "journey-gallery-andy",
-    "filter": "filter-school"
+    "src": "/assets/images/gallery/family/2006.03-parents-02.jpg",
+    "title": "In Memory of Grandpa",
+    "description": "March 2003",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/school/2004-andy-steppingstone-03.jpg",
-    "title": "Stepping Stone",
-    "description": "2004",
-    "gallery": "journey-gallery-andy",
-    "filter": "filter-school"
+    "src": "/assets/images/gallery/family/2006.03-parents-03.jpg",
+    "title": "In Memory of Grandpa",
+    "description": "March 2003",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/school/2004-andy-steppingstone-04.jpg",
-    "title": "Stepping Stone",
-    "description": "2004",
-    "gallery": "journey-gallery-andy",
-    "filter": "filter-school"
+    "src": "/assets/images/gallery/family/2006.03-parents-04.jpg",
+    "title": "In Memory of Grandpa",
+    "description": "March 2003",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/school/2004-andy-steppingstone-05.jpg",
-    "title": "Stepping Stone",
-    "description": "2004",
-    "gallery": "journey-gallery-andy",
-    "filter": "filter-school"
+    "src": "/assets/images/journey/korea/2007.08-grandpa.jpg",
+    "title": "Korea (Hospital)",
+    "description": "August 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/school/2004-andy-steppingstone-06.jpg",
-    "title": "Stepping Stone",
-    "description": "2004",
-    "gallery": "journey-gallery-andy",
-    "filter": "filter-school"
+    "src": "/assets/images/events/grandpa/2007.10-funeral-01.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/family/2005.01-new-year-01.jpg",
-    "title": "New Year",
-    "description": "January 2005",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
+    "src": "/assets/images/events/grandpa/2007.10-funeral-02.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/family/2005.01-new-year-02.jpg",
-    "title": "New Year",
-    "description": "January 2005",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
+    "src": "/assets/images/events/grandpa/2007.10-funeral-03.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/family/2005.01-new-year-03.jpg",
-    "title": "New Year",
-    "description": "January 2005",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
+    "src": "/assets/images/events/grandpa/2007.10-funeral-04.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/family/2005.01-new-year-04.jpg",
-    "title": "New Year",
-    "description": "January 2005",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
+    "src": "/assets/images/events/grandpa/2007.10-funeral-05.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/family/2005.01-new-year-05.jpg",
-    "title": "New Year",
-    "description": "January 2005",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
+    "src": "/assets/images/events/grandpa/2007.10-funeral-06.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/family/2005.01-new-year-06.jpg",
-    "title": "New Year",
-    "description": "January 2005",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
+    "src": "/assets/images/events/grandpa/2007.10-funeral-07.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/family/2005.01-new-year-07.jpg",
-    "title": "New Year",
-    "description": "January 2005",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
+    "src": "/assets/images/events/grandpa/2007.10-funeral-08.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/family/2005.02-andy-birthday.jpg",
-    "title": "Andy's birthday",
-    "description": "February 2005",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
+    "src": "/assets/images/events/grandpa/2007.10-funeral-09.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/school/2005.06-andy-steppingstone-01.jpg",
-    "title": "Stepping Stone",
-    "description": "June 2005",
-    "gallery": "journey-gallery-andy",
-    "filter": "filter-school"
+    "src": "/assets/images/events/grandpa/2007.10-funeral-10.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/school/2005.06-andy-steppingstone-02.jpg",
-    "title": "Stepping Stone",
-    "description": "June 2005",
-    "gallery": "journey-gallery-andy",
-    "filter": "filter-school"
+    "src": "/assets/images/events/grandpa/2007.10-funeral-11.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/school/2005.06-andy-steppingstone-03.jpg",
-    "title": "Stepping Stone",
-    "description": "June 2005",
-    "gallery": "journey-gallery-andy",
-    "filter": "filter-school"
+    "src": "/assets/images/events/grandpa/2007.10-funeral-12.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/school/2005.06-andy-steppingstone-04.jpg",
-    "title": "Stepping Stone",
-    "description": "June 2005",
-    "gallery": "journey-gallery-andy",
-    "filter": "filter-school"
+    "src": "/assets/images/events/grandpa/2007.10-funeral-13.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/school/2005.06-andy-steppingstone-05.jpg",
-    "title": "Stepping Stone",
-    "description": "June 2005",
-    "gallery": "journey-gallery-andy",
-    "filter": "filter-school"
+    "src": "/assets/images/events/grandpa/2007.10-funeral-14.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/baseball/2005.06-cardinals.jpg",
-    "title": "Cardinals",
-    "description": "June 2005",
-    "gallery": "journey-gallery-baseball",
-    "filter": "filter-baseball"
+    "src": "/assets/images/events/grandpa/2007.10-funeral-15.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/family/2006.02-andy-birthday-01.jpg",
-    "title": "Andy's birthday",
-    "description": "February 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
+    "src": "/assets/images/events/grandpa/2007.10-funeral-16.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/family/2006.02-andy-birthday-02.jpg",
-    "title": "Andy's birthday",
-    "description": "February 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
+    "src": "/assets/images/events/grandpa/2007.10-funeral-17.jpg",
+    "title": "A Farewell to Grandpa",
+    "description": "October 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/family/2006.02-andy-tooth.jpg",
-    "title": "A tooth fell out",
-    "description": "February 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
+    "src": "/assets/images/events/grandpa/2007.12-rose-hills-01.jpg",
+    "title": "Rose Hills",
+    "description": "December 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/family/2006.02-phil-01.jpg",
-    "title": "Phil at the pool",
-    "description": "February 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
+    "src": "/assets/images/events/grandpa/2007.12-rose-hills-02.jpg",
+    "title": "Rose Hills",
+    "description": "December 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/family/2006.02-phil-02.jpg",
-    "title": "Artesia, CA",
-    "description": "February 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
+    "src": "/assets/images/events/grandpa/2007.12-rose-hills-03.jpg",
+    "title": "Rose Hills",
+    "description": "December 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/family/2006.02-terri-01.jpg",
-    "title": "Artesia, CA",
-    "description": "February 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
+    "src": "/assets/images/events/grandpa/2007.12-rose-hills-04.jpg",
+    "title": "Rose Hills",
+    "description": "December 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/family/2006.03-andy.jpg",
-    "title": "Artesia, CA",
-    "description": "March 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
+    "src": "/assets/images/events/grandpa/2007.12-rose-hills-05.jpg",
+    "title": "Rose Hills",
+    "description": "December 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   },
   {
-    "src": "/src/assets/images/events/family/2006.03-choco-01.jpg",
-    "title": "With Choco",
-    "description": "March 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
-  },
-  {
-    "src": "/src/assets/images/events/family/2006.03-phil-andy.jpg",
-    "title": "Artesia, CA",
-    "description": "March 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
-  },
-  {
-    "src": "/src/assets/images/events/family/2006.03-terri-01.jpg",
-    "title": "Artesia, CA",
-    "description": "March 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
-  },
-  {
-    "src": "/src/assets/images/events/family/2006.03-terri-02.jpg",
-    "title": "Artesia, CA",
-    "description": "March 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
-  },
-  {
-    "src": "/src/assets/images/events/family/2006.03-terri-03.jpg",
-    "title": "Artesia, CA",
-    "description": "March 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
-  },
-  {
-    "src": "/src/assets/images/events/family/2006.03-parents-01.jpg",
-    "title": "Grand Father's birthday",
-    "description": "March 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
-  },
-  {
-    "src": "/src/assets/images/events/family/2006.03-parents-02.jpg",
-    "title": "Grand Father's birthday",
-    "description": "March 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
-  },
-  {
-    "src": "/src/assets/images/events/family/2006.03-parents-03.jpg",
-    "title": "Grand Father's birthday",
-    "description": "March 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
-  },
-  {
-    "src": "/src/assets/images/events/family/2006.03-parents-04.jpg",
-    "title": "Grand Father's birthday",
-    "description": "March 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
-  },
-  {
-    "src": "/src/assets/images/events/home/2006.05-artesia-01.jpg",
-    "title": "Artesia House",
-    "description": "May 2006",
-    "gallery": "journey-gallery-artesia",
-    "filter": "filter-home"
-  },
-  {
-    "src": "/src/assets/images/events/home/2006.05-artesia-02.jpg",
-    "title": "Artesia House",
-    "description": "May 2006",
-    "gallery": "journey-gallery-artesia",
-    "filter": "filter-home"
-  },
-  {
-    "src": "/src/assets/images/events/home/2006.05-artesia-03.jpg",
-    "title": "Artesia House",
-    "description": "May 2006",
-    "gallery": "journey-gallery-artesia",
-    "filter": "filter-home"
-  },
-  {
-    "src": "/src/assets/images/events/home/2006.05-artesia-04.jpg",
-    "title": "Artesia House",
-    "description": "May 2006",
-    "gallery": "journey-gallery-artesia",
-    "filter": "filter-home"
-  },
-  {
-    "src": "/src/assets/images/events/home/2006.05-artesia-05.jpg",
-    "title": "Artesia House",
-    "description": "May 2006",
-    "gallery": "journey-gallery-artesia",
-    "filter": "filter-home"
-  },
-  {
-    "src": "/src/assets/images/events/home/2006.05-artesia-06.jpg",
-    "title": "Artesia House",
-    "description": "May 2006",
-    "gallery": "journey-gallery-artesia",
-    "filter": "filter-home"
-  },
-  {
-    "src": "/src/assets/images/events/home/2006.05-artesia-07.jpg",
-    "title": "Artesia House",
-    "description": "May 2006",
-    "gallery": "journey-gallery-artesia",
-    "filter": "filter-home"
-  },
-  {
-    "src": "/src/assets/images/events/home/2006.05-artesia-08.jpg",
-    "title": "Artesia House",
-    "description": "May 2006",
-    "gallery": "journey-gallery-artesia",
-    "filter": "filter-home"
-  },
-  {
-    "src": "/src/assets/images/events/home/2006.05-artesia-09.jpg",
-    "title": "Artesia House",
-    "description": "May 2006",
-    "gallery": "journey-gallery-artesia",
-    "filter": "filter-home"
-  },
-  {
-    "src": "/src/assets/images/events/baseball/2006-brewers-01.jpg",
-    "title": "Brewers",
-    "description": "2006",
-    "gallery": "journey-gallery-baseball",
-    "filter": "filter-baseball"
-  },
-  {
-    "src": "/src/assets/images/events/baseball/2006-brewers-02.jpg",
-    "title": "Brewers",
-    "description": "2006",
-    "gallery": "journey-gallery-baseball",
-    "filter": "filter-baseball"
-  },
-  {
-    "src": "/src/assets/images/events/baseball/2006-brewers-03.jpg",
-    "title": "Brewers",
-    "description": "2006",
-    "gallery": "journey-gallery-baseball",
-    "filter": "filter-baseball"
-  },
-  {
-    "src": "/src/assets/images/events/baseball/2006-brewers-04.jpg",
-    "title": "Brewers",
-    "description": "2006",
-    "gallery": "journey-gallery-baseball",
-    "filter": "filter-baseball"
-  },
-  {
-    "src": "/src/assets/images/events/baseball/2006-brewers-05.jpg",
-    "title": "Brewers",
-    "description": "2006",
-    "gallery": "journey-gallery-baseball",
-    "filter": "filter-baseball"
-  },
-  {
-    "src": "/src/assets/images/events/baseball/2006-brewers-06.jpg",
-    "title": "Brewers",
-    "description": "2006",
-    "gallery": "journey-gallery-baseball",
-    "filter": "filter-baseball"
-  },
-  {
-    "src": "/src/assets/images/events/baseball/2006-brewers-07.jpg",
-    "title": "Brewers",
-    "description": "2006",
-    "gallery": "journey-gallery-baseball",
-    "filter": "filter-baseball"
-  },
-  {
-    "src": "/src/assets/images/events/baseball/2006-brewers-08.jpg",
-    "title": "Brewers",
-    "description": "2006",
-    "gallery": "journey-gallery-baseball",
-    "filter": "filter-baseball"
-  },
-  {
-    "src": "/src/assets/images/events/baseball/2006-brewers-09.jpg",
-    "title": "Brewers",
-    "description": "2006",
-    "gallery": "journey-gallery-baseball",
-    "filter": "filter-baseball"
-  },
-  {
-    "src": "/src/assets/images/events/baseball/2006-brewers-10.jpg",
-    "title": "Brewers",
-    "description": "2006",
-    "gallery": "journey-gallery-baseball",
-    "filter": "filter-baseball"
-  },
-  {
-    "src": "/src/assets/images/events/baseball/2006-brewers-11.jpg",
-    "title": "Brewers",
-    "description": "2006",
-    "gallery": "journey-gallery-baseball",
-    "filter": "filter-baseball"
-  },
-  {
-    "src": "/src/assets/images/events/friends/2006.05-hollywood-bowl-01.jpg",
-    "title": "Hollywood Bowl",
-    "description": "May 2006",
-    "gallery": "journey-gallery-hollywood-bowl",
-    "filter": "filter-friends"
-  },
-  {
-    "src": "/src/assets/images/events/friends/2006.05-hollywood-bowl-02.jpg",
-    "title": "Hollywood Bowl",
-    "description": "May 2006",
-    "gallery": "journey-gallery-hollywood-bowl",
-    "filter": "filter-friends"
-  },
-  {
-    "src": "/src/assets/images/events/friends/2006.05-hollywood-bowl-03.jpg",
-    "title": "Hollywood Bowl",
-    "description": "May 2006",
-    "gallery": "journey-gallery-hollywood-bowl",
-    "filter": "filter-friends"
-  },
-  {
-    "src": "/src/assets/images/events/friends/2006.05-hollywood-bowl-04.jpg",
-    "title": "Hollywood Bowl",
-    "description": "May 2006",
-    "gallery": "journey-gallery-hollywood-bowl",
-    "filter": "filter-friends"
-  },
-  {
-    "src": "/src/assets/images/events/friends/2006.05-hollywood-bowl-05.jpg",
-    "title": "Hollywood Bowl",
-    "description": "May 2006",
-    "gallery": "journey-gallery-hollywood-bowl",
-    "filter": "filter-friends"
-  },
-  {
-    "src": "/src/assets/images/events/friends/2006.05-hollywood-bowl-06.jpg",
-    "title": "Hollywood Bowl",
-    "description": "May 2006",
-    "gallery": "journey-gallery-hollywood-bowl",
-    "filter": "filter-friends"
-  },
-  {
-    "src": "/src/assets/images/events/friends/2006.05-hollywood-bowl-07.jpg",
-    "title": "Hollywood Bowl",
-    "description": "May 2006",
-    "gallery": "journey-gallery-hollywood-bowl",
-    "filter": "filter-friends"
-  },
-  {
-    "src": "/src/assets/images/events/friends/2006.05-hollywood-bowl-08.jpg",
-    "title": "Hollywood Bowl",
-    "description": "May 2006",
-    "gallery": "journey-gallery-hollywood-bowl",
-    "filter": "filter-friends"
-  },
-  {
-    "src": "/src/assets/images/events/friends/2006.05-hollywood-bowl-09.jpg",
-    "title": "Hollywood Bowl",
-    "description": "May 2006",
-    "gallery": "journey-gallery-hollywood-bowl",
-    "filter": "filter-friends"
-  },
-  {
-    "src": "/src/assets/images/events/family/2006.06-01.jpg",
-    "title": "Artesia, CA",
-    "description": "June 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
-  },
-  {
-    "src": "/src/assets/images/events/family/2006.06-02.jpg",
-    "title": "Artesia, CA",
-    "description": "June 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
-  },
-  {
-    "src": "/src/assets/images/events/family/2006.06-03.jpg",
-    "title": "Artesia, CA",
-    "description": "June 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
-  },
-  {
-    "src": "/src/assets/images/events/family/2006.06-04.jpg",
-    "title": "Artesia, CA",
-    "description": "June 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
-  },
-  {
-    "src": "/src/assets/images/events/family/2006.06-05.jpg",
-    "title": "Artesia, CA",
-    "description": "June 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
-  },
-  {
-    "src": "/src/assets/images/events/family/2006.06-06.jpg",
-    "title": "Artesia, CA",
-    "description": "June 2006",
-    "gallery": "journey-gallery-family",
-    "filter": "filter-family"
+    "src": "/assets/images/events/grandpa/2007.12-rose-hills-06.jpg",
+    "title": "Rose Hills",
+    "description": "December 2007",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   }
 ]
