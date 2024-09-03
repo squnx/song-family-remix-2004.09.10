@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import activityItems from './activityItems.json';
+import unitedstatesItems from './unitedstatesItems.json';
 
 function useScript(src) {
   useEffect(() => {
@@ -13,31 +13,33 @@ function useScript(src) {
   }, [src]);
 }
 
-const Activity = () => {
+const UnitedStates = () => {
   useScript('/assets/js/main-useScript.js');
   
   return (
     <>
-      {/* Activity Section */}
+      {/* UnitedStates Section */}
       <section id="gallery" className="gallery section">
         <div className="container section-title" data-aos="fade-up">
-          <h2>Activity</h2>
+          <h2>UnitedStates</h2>
           {/* <p>Discovering New Horizons</p> */}
         </div>
         <div className="container">
-          <div className="isotope-layout" data-default-filter=".filter-golf" data-layout="masonry" data-sort="original-order">
+          <div className="isotope-layout" data-default-filter=".filter-california" data-layout="masonry" data-sort="original-order">
             <ul className="gallery-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
-              {/* <li data-filter="*">All</li> */}
-              <li data-filter=".filter-baseball">Baseball</li>
-              <li data-filter=".filter-cake">Cake</li>
-              <li data-filter=".filter-golf" className="filter-active">Golf</li>
-              <li data-filter=".filter-piano">Piano</li>
-              <li data-filter=".filter-ski">Ski</li>
-              <li data-filter=".filter-soccer">Soccer</li>
-              <li data-filter=".filter-swimming">Swimming</li>
+              {/* <li data-filter="*" className="filter-active">All</li> */}
+              <li data-filter=".filter-arizona">Arizona</li>
+              <li data-filter=".filter-california" className="filter-active">California</li>
+              <li data-filter=".filter-georgia">Georgia</li>
+              <li data-filter=".filter-hawaii">Hawaii</li>
+              <li data-filter=".filter-nevada">Nevada</li>
+              <li data-filter=".filter-utah">Utah</li>
+              <li data-filter=".filter-washington">Washington</li>
+              <li data-filter=".filter-wyoming">Wyoming</li>
+              {/* <li data-filter=".filter-yellowstone">Yellowstone</li> */}
             </ul>
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
-              {activityItems.map((item, index) => (
+              {unitedstatesItems.map((item, index) => (
                 <div key={index} className={`col-lg-3 col-md-4 col-sm-6 gallery-item isotope-item ${item.filter}`}>
                 {/* <div key={index} className={`col-lg-2 col-md-3 col-sm-4 gallery-item isotope-item ${item.filter}`}> */}
                   <img src={item.src} className="img-fluid" alt="" />
@@ -57,4 +59,4 @@ const Activity = () => {
   )
 }
 
-export default Activity
+export default UnitedStates;

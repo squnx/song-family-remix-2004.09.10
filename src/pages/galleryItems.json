@@ -1204,6 +1204,27 @@
     "filter": "filter-family"
   },
   {
+    "src": "/assets/images/journey/korea/2008.07-korea-busan-01.jpg",
+    "title": "Korea (Busan)",
+    "description": "July 2008",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/korea/2008.07-korea-busan-05.jpg",
+    "title": "Korea (Busan)",
+    "description": "July 2008",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/korea/2008.07-korea-seoul-01.jpg",
+    "title": "Korea (Seoul)",
+    "description": "July 2008",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
     "src": "/assets/images/gallery/family/2008.08-01.jpg",
     "title": "Candid Moments",
     "description": "August 2008",

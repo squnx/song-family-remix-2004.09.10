@@ -25,7 +25,7 @@ const Journey = () => {
           {/* <p>Discovering New Horizons</p> */}
         </div>
         <div className="container">
-          <div className="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+          <div className="isotope-layout" data-default-filter=".filter-california" data-layout="masonry" data-sort="original-order">
             <ul className="gallery-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
               {/* <li data-filter="*" className="filter-active">All</li> */}
               <li data-filter=".filter-arizona">Arizona</li>

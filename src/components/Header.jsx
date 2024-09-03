@@ -2,15 +2,6 @@ import { NavLink } from 'react-router-dom';
 
 const Header = () => {
   return (
-    // <header id="header" className="header">
-    //   <nav>
-    //     <ul>
-    //       <li><NavLink to="/">Home</NavLink></li>
-    //       <li><NavLink to="/our-story">Out Story</NavLink></li>
-    //       <li><NavLink to="/events">Events</NavLink></li>
-    //     </ul>
-    //   </nav>
-    // </header>
     <header id="header" className="header d-flex align-items-center coffee-background sticky-top">
       <div className="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
         <NavLink to="/" className="logo d-flex align-items-center me-auto me-xl-0"><h1 className="sitename">Song Family Remix</h1></NavLink>
@@ -26,14 +17,30 @@ const Header = () => {
             <li><NavLink to="/activity" activeclassname="active">Activity</NavLink></li>
             <li><NavLink to="/events" activeclassname="active">Events</NavLink></li>
             <li><NavLink to="/gallery" activeclassname="active">Gallery</NavLink></li>
-            <li><NavLink to="/journey" activeclassname="active">Journey</NavLink></li>
+            {/* <li><NavLink to="/journey" activeclassname="active">Journey</NavLink></li> */}
             {/* <li><a href="index.html" className="active">Home</a></li>
             <li><a href="about.html">About</a></li>
             <li><a href="resume.html">Resume</a></li>
             <li><a href="services.html">Services</a></li>
             <li><a href="portfolio.html">Portfolio</a></li> */}
 
-
+            <li className="dropdown"><a href="#"><span>Journey</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
+              <ul>
+                <li><a href="/us">United States</a></li>
+                <li><a href="/korea">Korea</a></li>
+                <li><a href="/mexico">Mexico</a></li>
+                {/* <li className="dropdown"><a href="#"><span>Deep Dropdown</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
+                  <ul>
+                    <li><a href="#">Deep Dropdown 1</a></li>
+                    <li><a href="#">Deep Dropdown 2</a></li>
+                    <li><a href="#">Deep Dropdown 3</a></li>
+                    <li><a href="#">Deep Dropdown 4</a></li>
+                    <li><a href="#">Deep Dropdown 5</a></li>
+                  </ul>
+                </li> */}
+              </ul>
+            </li>
+            <li><NavLink to="/contact" activeclassname="active">Contact</NavLink></li>
             {/* <nav id="navbar" className="navbar">
               <ul>
                 <li><NavLink to="/" activeclassname="active">Home</NavLink></li>
@@ -61,24 +68,6 @@ const Header = () => {
               <i className="bi bi-list mobile-nav-toggle"></i>
             </nav> */}
 
-            {/* <li className="dropdown"><a href="#"><span>Dropdown</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
-              <ul>
-                <li><a href="#">Dropdown 1</a></li>
-                <li className="dropdown"><a href="#"><span>Deep Dropdown</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
-                  <ul>
-                    <li><a href="#">Deep Dropdown 1</a></li>
-                    <li><a href="#">Deep Dropdown 2</a></li>
-                    <li><a href="#">Deep Dropdown 3</a></li>
-                    <li><a href="#">Deep Dropdown 4</a></li>
-                    <li><a href="#">Deep Dropdown 5</a></li>
-                  </ul>
-                </li>
-                <li><a href="#">Dropdown 2</a></li>
-                <li><a href="#">Dropdown 3</a></li>
-                <li><a href="#">Dropdown 4</a></li>
-              </ul>
-            </li> */}
-            <li><NavLink to="/contact" activeclassname="active">Contact</NavLink></li>
           </ul>
           <i className="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>

@@ -12,6 +12,9 @@ import Activity from './pages/Activity';
 import Events from './pages/Events';
 import Gallery from './pages/Gallery';
 import Journey from './pages/Journey';
+import UnitedStates from './pages/UnitedStates';
+import Korea from './pages/Korea';
+import Mexico from './pages/Mexico';
 import Contact from './pages/Contact';
 import ScrollToTop from './components/ScrollToTop';
 
@@ -33,6 +36,9 @@ function App() {
             <Route path="/events" element={<Events />} />
             <Route path="/gallery" element={<Gallery />} />
             <Route path="/journey" element={<Journey />} />
+            <Route path="/us" element={<UnitedStates />} />
+            <Route path="/korea" element={<Korea />} />
+            <Route path="/mexico" element={<Mexico />} />
             <Route path="/contact" element={<Contact />} />
           </Routes>
         </main>
