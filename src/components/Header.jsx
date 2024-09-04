@@ -26,9 +26,9 @@ const Header = () => {
 
             <li className="dropdown"><a href="#"><span>Journey</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
               <ul>
-                <li><a href="/us">United States</a></li>
                 <li><a href="/korea">Korea</a></li>
                 <li><a href="/mexico">Mexico</a></li>
+                <li><a href="/us">USA</a></li>
                 {/* <li className="dropdown"><a href="#"><span>Deep Dropdown</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
                   <ul>
                     <li><a href="#">Deep Dropdown 1</a></li>

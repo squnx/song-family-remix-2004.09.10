@@ -21,7 +21,7 @@ const UnitedStates = () => {
       {/* UnitedStates Section */}
       <section id="gallery" className="gallery section">
         <div className="container section-title" data-aos="fade-up">
-          <h2>UnitedStates</h2>
+          <h2>USA</h2>
           {/* <p>Discovering New Horizons</p> */}
         </div>
         <div className="container">
