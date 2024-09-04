@@ -15,6 +15,13 @@ function useScript(src) {
 
 const Gallery = () => {
   useScript('/assets/js/main-useScript.js');
+
+  const handleFilterClick = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth' // Smooth scroll to the top
+    });
+  };
   
   return (
     <>
@@ -25,13 +32,13 @@ const Gallery = () => {
           {/* <p>Discovering New Horizons</p> */}
         </div>
         <div className="container">
-          <div className="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
-            <ul className="gallery-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
-              <li data-filter="*" className="filter-active">All</li>
-              <li data-filter=".filter-family">Family</li>
-              <li data-filter=".filter-friends">Friends</li>
-              <li data-filter=".filter-houses">Houses</li>
-              <li data-filter=".filter-school">School</li>
+          <div className="isotope-layout" data-default-filter=".filter-family" data-layout="masonry" data-sort="original-order">
+          <ul className="gallery-filters isotope-filters sticky-filters" data-aos="fade-up" data-aos-delay="100">
+              {/* <li data-filter="*" className="filter-active">All</li> */}
+              <li data-filter=".filter-family" onClick={handleFilterClick} className="filter-active">Family</li>
+              <li data-filter=".filter-friends" onClick={handleFilterClick}>Friends</li>
+              <li data-filter=".filter-houses" onClick={handleFilterClick}>Houses</li>
+              <li data-filter=".filter-school" onClick={handleFilterClick}>School</li>
             </ul>
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
               {galleryItems.map((item, index) => (

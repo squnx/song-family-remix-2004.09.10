@@ -1440,5 +1440,54 @@
     "description": "November 2008",
     "gallery": "gallery-family",
     "filter": "filter-family filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/family/2009.01-lobster-festival-01.jpg",
+    "title": "Lobster Festival",
+    "description": "January 2009",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2009.01-lobster-festival-02.jpg",
+    "title": "Lobster Festival",
+    "description": "January 2009",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2009.01-lobster-festival-03.jpg",
+    "title": "Lobster Festival",
+    "description": "January 2009",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2009.01-lobster-festival-04.jpg",
+    "title": "Lobster Festival",
+    "description": "January 2009",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2009.01-lobster-festival-05.jpg",
+    "title": "Lobster Festival",
+    "description": "January 2009",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2009.01-lobster-festival-06.jpg",
+    "title": "Lobster Festival",
+    "description": "January 2009",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/school/2009.02-andy.jpg",
+    "title": "Candid Moments",
+    "description": "February 2009",
+    "gallery": "gallery-school",
+    "filter": "filter-school"
   }
 ]

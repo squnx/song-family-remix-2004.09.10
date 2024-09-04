@@ -1080,6 +1080,24 @@ section,
 # Gallery Section
 --------------------------------------------------------------*/
 .gallery {
+  .sticky-filters {
+    position: -webkit-sticky;
+    /* For Safari */
+    position: sticky;
+    top: 73px;
+    /* Adjust based on your header height */
+    z-index: 1000;
+    /* Ensure it stays on top */
+    background-color: #fff;
+    /* Optional: Adds background color */
+    padding: 10px 0 5px !important;
+    /* Optional: Adds padding */
+
+    @media (max-width: 1200px) {
+      top: 51px;
+    }
+  }
+
   .gallery-filters {
     padding: 0;
     margin: 0 auto 20px auto;
