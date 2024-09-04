@@ -175,6 +175,34 @@
     "filter": "filter-school"
   },
   {
+    "src": "/assets/images/journey/cancun/2005.11-cancun-06.jpg",
+    "title": "Cancun, Mexico",
+    "description": "November 2005",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/cancun/2005.11-cancun-07.jpg",
+    "title": "Cancun, Mexico",
+    "description": "November 2005",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/cancun/2005.11-cancun-12.jpg",
+    "title": "Cancun, Mexico",
+    "description": "November 2005",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/cancun/2005.11-cancun-28.jpg",
+    "title": "Cancun, Mexico",
+    "description": "November 2005",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
     "src": "/assets/images/gallery/family/2006.02-andy-birthday-01.jpg",
     "title": "Andy's birthday",
     "description": "February 2006",
@@ -1237,5 +1265,54 @@
     "description": "August 2008",
     "gallery": "gallery-family",
     "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-01.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-03.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-07.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-12.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-16.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-17.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/california/2008.08-kings-canyon-20.jpg",
+    "title": "Kings Canyon",
+    "description": "August 2008",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
   }
 ]
