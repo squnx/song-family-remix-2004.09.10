@@ -15,6 +15,13 @@ function useScript(src) {
 
 const Mexico = () => {
   useScript('/assets/js/main-useScript.js');
+
+  const handleFilterClick = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth' // Smooth scroll to the top
+    });
+  };
   
   return (
     <>
@@ -26,11 +33,11 @@ const Mexico = () => {
         </div>
         <div className="container">
           <div className="isotope-layout" data-default-filter=".filter-cancun" data-layout="masonry" data-sort="original-order">
-            <ul className="gallery-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
+            <ul className="gallery-filters isotope-filters sticky-filters" data-aos="fade-up" data-aos-delay="100">
               {/* <li data-filter="*" className="filter-active">All</li> */}
-              <li data-filter=".filter-cancun" className="filter-active">Cancun</li>
-              <li data-filter=".filter-ensenada">Ensenada</li>
-              <li data-filter=".filter-loscabos">Los Cabos</li>
+              <li data-filter=".filter-cancun" onClick={handleFilterClick} className="filter-active">Cancun</li>
+              <li data-filter=".filter-ensenada" onClick={handleFilterClick}>Ensenada</li>
+              <li data-filter=".filter-loscabos" onClick={handleFilterClick}>Los Cabos</li>
             </ul>
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
               {mexicoItems.map((item, index) => (

@@ -15,7 +15,14 @@ function useScript(src) {
 
 const Activity = () => {
   useScript('/assets/js/main-useScript.js');
-  
+
+  const handleFilterClick = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth' // Smooth scroll to the top
+    });
+  };
+
   return (
     <>
       {/* Activity Section */}
@@ -26,20 +33,20 @@ const Activity = () => {
         </div>
         <div className="container">
           <div className="isotope-layout" data-default-filter=".filter-golf" data-layout="masonry" data-sort="original-order">
-            <ul className="gallery-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
+            <ul className="gallery-filters isotope-filters sticky-filters" data-aos="fade-up" data-aos-delay="100">
               {/* <li data-filter="*">All</li> */}
-              <li data-filter=".filter-baseball">Baseball</li>
-              <li data-filter=".filter-cake">Cake</li>
-              <li data-filter=".filter-golf" className="filter-active">Golf</li>
-              <li data-filter=".filter-piano">Piano</li>
-              <li data-filter=".filter-ski">Ski</li>
-              <li data-filter=".filter-soccer">Soccer</li>
-              <li data-filter=".filter-swimming">Swimming</li>
+              <li data-filter=".filter-baseball" onClick={handleFilterClick}>Baseball</li>
+              <li data-filter=".filter-cake" onClick={handleFilterClick}>Cake</li>
+              <li data-filter=".filter-golf" onClick={handleFilterClick} className="filter-active">Golf</li>
+              <li data-filter=".filter-piano" onClick={handleFilterClick}>Piano</li>
+              <li data-filter=".filter-ski" onClick={handleFilterClick}>Ski</li>
+              <li data-filter=".filter-soccer" onClick={handleFilterClick}>Soccer</li>
+              <li data-filter=".filter-swimming" onClick={handleFilterClick}>Swimming</li>
             </ul>
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
               {activityItems.map((item, index) => (
                 <div key={index} className={`col-lg-3 col-md-4 col-sm-6 gallery-item isotope-item ${item.filter}`}>
-                {/* <div key={index} className={`col-lg-2 col-md-3 col-sm-4 gallery-item isotope-item ${item.filter}`}> */}
+                  {/* <div key={index} className={`col-lg-2 col-md-3 col-sm-4 gallery-item isotope-item ${item.filter}`}> */}
                   <img src={item.src} className="img-fluid" alt="" />
                   <div className="gallery-info">
                     <h4>{item.title}</h4>
