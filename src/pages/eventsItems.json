@@ -77,6 +77,41 @@
     "filter": "filter-1st-birthday"
   },
   {
+    "src": "/assets/images/events/andy/2005.06-steppingstone-01.jpg",
+    "title": "Preschool Graduation",
+    "description": "June 2005",
+    "gallery": "activity-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2005.06-steppingstone-02.jpg",
+    "title": "Preschool Graduation",
+    "description": "June 2005",
+    "gallery": "activity-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2005.06-steppingstone-03.jpg",
+    "title": "Preschool Graduation",
+    "description": "June 2005",
+    "gallery": "activity-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2005.06-steppingstone-04.jpg",
+    "title": "Preschool Graduation",
+    "description": "June 2005",
+    "gallery": "activity-andy",
+    "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/andy/2005.06-steppingstone-05.jpg",
+    "title": "Preschool Graduation",
+    "description": "June 2005",
+    "gallery": "activity-andy",
+    "filter": "filter-andy"
+  },
+  {
     "src": "/assets/images/gallery/family/2006.03-parents-01.jpg",
     "title": "In Memory of Grandpa",
     "description": "March 2003",
