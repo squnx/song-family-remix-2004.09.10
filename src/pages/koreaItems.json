@@ -917,6 +917,13 @@
     "filter": "filter-korea-2008"
   },
   {
+    "src": "/assets/images/journey/korea/2008.06-korea-jeolla-47.jpg",
+    "title": "Korea (Jeolla-Do)",
+    "description": "June 2008",
+    "gallery": "journey-jeolla",
+    "filter": "filter-korea-2008"
+  },
+  {
     "src": "/assets/images/journey/korea/2008.07-korea-jeolla-01.jpg",
     "title": "Korea (Jeolla-Do)",
     "description": "July 2008",
@@ -1205,6 +1212,13 @@
   },
   {
     "src": "/assets/images/journey/korea/2008.07-korea-jeolla-42.jpg",
+    "title": "Korea (Jeolla-Do)",
+    "description": "July 2008",
+    "gallery": "journey-jeolla",
+    "filter": "filter-korea-2008"
+  },
+  {
+    "src": "/assets/images/journey/korea/2008.07-korea-jeolla-43.jpg",
     "title": "Korea (Jeolla-Do)",
     "description": "July 2008",
     "gallery": "journey-jeolla",

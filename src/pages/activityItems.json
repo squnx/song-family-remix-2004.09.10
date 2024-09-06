@@ -378,67 +378,67 @@
     "filter": "filter-swimming"
   },
   {
-    "src": "/assets/images/activity/piano/2006.08-piano-01.jpg",
+    "src": "/assets/images/activity/instruments/2006.08-piano-01.jpg",
     "title": "Piano",
     "description": "August 2006",
-    "gallery": "activity-piano",
-    "filter": "filter-piano"
+    "gallery": "activity-instruments",
+    "filter": "filter-instruments"
   },
   {
-    "src": "/assets/images/activity/piano/2006.08-piano-02.jpg",
+    "src": "/assets/images/activity/instruments/2006.08-piano-02.jpg",
     "title": "Piano",
     "description": "August 2006",
-    "gallery": "activity-piano",
-    "filter": "filter-piano"
+    "gallery": "activity-instruments",
+    "filter": "filter-instruments"
   },
   {
-    "src": "/assets/images/activity/piano/2006.08-piano-03.jpg",
+    "src": "/assets/images/activity/instruments/2006.08-piano-03.jpg",
     "title": "Piano",
     "description": "August 2006",
-    "gallery": "activity-piano",
-    "filter": "filter-piano"
+    "gallery": "activity-instruments",
+    "filter": "filter-instruments"
   },
   {
-    "src": "/assets/images/activity/piano/2006.08-piano-04.jpg",
+    "src": "/assets/images/activity/instruments/2006.08-piano-04.jpg",
     "title": "Piano",
     "description": "August 2006",
-    "gallery": "activity-piano",
-    "filter": "filter-piano"
+    "gallery": "activity-instruments",
+    "filter": "filter-instruments"
   },
   {
-    "src": "/assets/images/activity/piano/2006.08-piano-05.jpg",
+    "src": "/assets/images/activity/instruments/2006.08-piano-05.jpg",
     "title": "Piano",
     "description": "August 2006",
-    "gallery": "activity-piano",
-    "filter": "filter-piano"
+    "gallery": "activity-instruments",
+    "filter": "filter-instruments"
   },
   {
-    "src": "/assets/images/activity/piano/2006.08-piano-06.jpg",
+    "src": "/assets/images/activity/instruments/2006.08-piano-06.jpg",
     "title": "Piano",
     "description": "August 2006",
-    "gallery": "activity-piano",
-    "filter": "filter-piano"
+    "gallery": "activity-instruments",
+    "filter": "filter-instruments"
   },
   {
-    "src": "/assets/images/activity/piano/2006.08-piano-07.jpg",
+    "src": "/assets/images/activity/instruments/2006.08-piano-07.jpg",
     "title": "Piano",
     "description": "August 2006",
-    "gallery": "activity-piano",
-    "filter": "filter-piano"
+    "gallery": "activity-instruments",
+    "filter": "filter-instruments"
   },
   {
-    "src": "/assets/images/activity/piano/2006.08-piano-08.jpg",
+    "src": "/assets/images/activity/instruments/2006.08-piano-08.jpg",
     "title": "Piano",
     "description": "August 2006",
-    "gallery": "activity-piano",
-    "filter": "filter-piano"
+    "gallery": "activity-instruments",
+    "filter": "filter-instruments"
   },
   {
-    "src": "/assets/images/activity/piano/2006.08-piano-09.jpg",
+    "src": "/assets/images/activity/instruments/2006.08-piano-09.jpg",
     "title": "Piano",
     "description": "August 2006",
-    "gallery": "activity-piano",
-    "filter": "filter-piano"
+    "gallery": "activity-instruments",
+    "filter": "filter-instruments"
   },
   {
     "src": "/assets/images/activity/cake/2006.10-cake-01.jpg",
@@ -1461,5 +1461,173 @@
     "description": "Novermber 2008",
     "gallery": "activity-golf",
     "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/gallery/school/2009.02-andy.jpg",
+    "title": "Candid Moments",
+    "description": "February 2009",
+    "gallery": "activity-instruments",
+    "filter": "filter-instruments"
+  },
+  {
+    "src": "/assets/images/activity/golf/2009.03-russ-01.jpg",
+    "title": "Lesson with Russ",
+    "description": "March 2009",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2009.03-russ-02.jpg",
+    "title": "Lesson with Russ",
+    "description": "March 2009",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2009.03-russ-03.jpg",
+    "title": "Lesson with Russ",
+    "description": "March 2009",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2009.03-russ-04.jpg",
+    "title": "Lesson with Russ",
+    "description": "March 2009",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2009.03-russ-05.jpg",
+    "title": "Lesson with Russ",
+    "description": "March 2009",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2009.03-russ-06.jpg",
+    "title": "Lesson with Russ",
+    "description": "March 2009",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2009.04-nabisco-01.jpg",
+    "title": "With Michelle Wie",
+    "description": "April 2009",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2009.04-nabisco-02.jpg",
+    "title": "With Michelle Wie",
+    "description": "April 2009",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2009.04-nabisco-03.jpg",
+    "title": "With Michelle Wie",
+    "description": "April 2009",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2009.04-nabisco-04.jpg",
+    "title": "With Michelle Wie",
+    "description": "April 2009",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2009.04-nabisco-05.jpg",
+    "title": "Kraft Nabisco Championship",
+    "description": "April 2009",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2009.04-nabisco-06.jpg",
+    "title": "Pak Se-ri",
+    "description": "April 2009",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2009.04-nabisco-07.jpg",
+    "title": "Pak Se-ri",
+    "description": "April 2009",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2012.05-soccer-01.jpg",
+    "title": "Soccer",
+    "description": "May 2012",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2012.05-soccer-02.jpg",
+    "title": "Soccer",
+    "description": "May 2012",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2012.05-soccer-03.jpg",
+    "title": "Soccer",
+    "description": "May 2012",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2012.05-soccer-04.jpg",
+    "title": "Soccer",
+    "description": "May 2012",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2012.05-soccer-05.jpg",
+    "title": "Soccer",
+    "description": "May 2012",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2012.05-soccer-06.jpg",
+    "title": "Soccer",
+    "description": "May 2012",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2012.05-soccer-07.jpg",
+    "title": "Soccer",
+    "description": "May 2012",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2012.05-soccer-08.jpg",
+    "title": "Soccer",
+    "description": "May 2012",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2012.05-soccer-09.jpg",
+    "title": "Soccer",
+    "description": "May 2012",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2012.05-soccer-10.jpg",
+    "title": "Soccer",
+    "description": "May 2012",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
   }
 ]
