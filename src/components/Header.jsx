@@ -18,14 +18,9 @@ const Header = () => {
             <li><NavLink to="/events" activeclassname="active">Events</NavLink></li>
             <li><NavLink to="/gallery" activeclassname="active">Gallery</NavLink></li>
             {/* <li><NavLink to="/journey" activeclassname="active">Journey</NavLink></li> */}
-            {/* <li><a href="index.html" className="active">Home</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="resume.html">Resume</a></li>
-            <li><a href="services.html">Services</a></li>
-            <li><a href="portfolio.html">Portfolio</a></li> */}
-
             <li className="dropdown"><a href="#"><span>Journey</span> <i className="bi bi-chevron-down toggle-dropdown"></i></a>
               <ul>
+                {/* <li><a href="/california">California</a></li> */}
                 <li><a href="/korea">Korea</a></li>
                 <li><a href="/mexico">Mexico</a></li>
                 <li><a href="/us">USA</a></li>

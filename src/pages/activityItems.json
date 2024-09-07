@@ -1615,5 +1615,40 @@
     "description": "May 2012",
     "gallery": "activity-soccer",
     "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/golf/2012.06-palos-verdes-01.jpg",
+    "title": "Palos Verdes Golf Club",
+    "description": "June 2012",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2012.06-palos-verdes-02.jpg",
+    "title": "Palos Verdes Golf Club",
+    "description": "June 2012",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2012.06-palos-verdes-03.jpg",
+    "title": "Palos Verdes Golf Club",
+    "description": "June 2012",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2012.06-palos-verdes-04.jpg",
+    "title": "Palos Verdes Golf Club",
+    "description": "June 2012",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2012.06-palos-verdes-05.jpg",
+    "title": "Palos Verdes Golf Club",
+    "description": "June 2012",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
   }
 ]
