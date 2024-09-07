@@ -48,8 +48,7 @@ const UnitedStates = () => {
               {unitedstatesItems.map((item, index) => (
                 <div key={index} className={`col-lg-3 col-md-4 col-sm-6 gallery-item isotope-item ${item.filter}`}>
                 {/* <div key={index} className={`col-lg-2 col-md-3 col-sm-4 gallery-item isotope-item ${item.filter}`}> */}
-                  {/* Lazy load the image */}
-                  <img src={item.src} loading="lazy" className="img-fluid" alt={item.title} />
+                  <img src={item.src} loading="lazy" className="img-fluid" alt="" />
                   <div className="gallery-info">
                     <h4>{item.title}</h4>
                     <p>{item.description}</p>
