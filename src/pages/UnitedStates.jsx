@@ -43,13 +43,13 @@ const UnitedStates = () => {
               <li data-filter=".filter-utah" onClick={handleFilterClick}>Utah</li>
               <li data-filter=".filter-washington" onClick={handleFilterClick}>Washington</li>
               <li data-filter=".filter-wyoming" onClick={handleFilterClick}>Wyoming</li>
-              {/* <li data-filter=".filter-yellowstone">Yellowstone</li> */}
             </ul>
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
               {unitedstatesItems.map((item, index) => (
                 <div key={index} className={`col-lg-3 col-md-4 col-sm-6 gallery-item isotope-item ${item.filter}`}>
                 {/* <div key={index} className={`col-lg-2 col-md-3 col-sm-4 gallery-item isotope-item ${item.filter}`}> */}
-                  <img src={item.src} className="img-fluid" alt="" />
+                  {/* Lazy load the image */}
+                  <img src={item.src} loading="lazy" className="img-fluid" alt={item.title} />
                   <div className="gallery-info">
                     <h4>{item.title}</h4>
                     <p>{item.description}</p>
