@@ -1,5 +1,12 @@
 [
   {
+    "src": "/assets/images/journey/california/1997-hearst-castle.jpg",
+    "title": "Hearst Castle",
+    "description": "1997",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
     "src": "/assets/images/gallery/family/2001.family-01.jpg",
     "title": "Brotherly Bonds",
     "description": "2001",
@@ -1594,5 +1601,166 @@
     "description": "June 2009",
     "gallery": "gallery-milestones",
     "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/family/2012.10-halloween-01.jpg",
+    "title": "Halloween",
+    "description": "October 2012",
+    "gallery": "gallery-halloween",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2012.11-family-01.jpg",
+    "title": "Placentia, CA",
+    "description": "November 2012",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2012.11-family-02.jpg",
+    "title": "Placentia, CA",
+    "description": "November 2012",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/family/2012.11-family-03.jpg",
+    "title": "Placentia, CA",
+    "description": "November 2012",
+    "gallery": "gallery-family",
+    "filter": "filter-family"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2012.11-kraemer-01.jpg",
+    "title": "Kraemer",
+    "description": "November 2012",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2012.11-kraemer-02.jpg",
+    "title": "Kraemer",
+    "description": "November 2012",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2012.11-kraemer-03.jpg",
+    "title": "Kraemer",
+    "description": "November 2012",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2012.11-kraemer-04.jpg",
+    "title": "Kraemer",
+    "description": "November 2012",
+    "gallery": "gallery-milestones",
+    "filter": "filter-milestones"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2012.11-donghang-01.jpg",
+    "title": "Dong Hang",
+    "description": "November 2012",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2012.11-donghang-02.jpg",
+    "title": "Dong Hang",
+    "description": "November 2012",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2012.11-donghang-03.jpg",
+    "title": "Dong Hang",
+    "description": "November 2012",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2012.11-donghang-04.jpg",
+    "title": "Dong Hang",
+    "description": "November 2012",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/gallery/friends/2012.11-donghang-05.jpg",
+    "title": "Dong Hang",
+    "description": "November 2012",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/ensenada/2021.12-ensenada-05.jpg",
+    "title": "Ensenada, Mexico",
+    "description": "December 2021",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/ensenada/2021.12-ensenada-06.jpg",
+    "title": "Ensenada, Mexico",
+    "description": "December 2021",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/ensenada/2021.12-ensenada-07.jpg",
+    "title": "Ensenada, Mexico",
+    "description": "December 2021",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/ensenada/2021.12-ensenada-08.jpg",
+    "title": "Ensenada, Mexico",
+    "description": "December 2021",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/ensenada/2021.12-ensenada-09.jpg",
+    "title": "Ensenada, Mexico",
+    "description": "December 2021",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/ensenada/2021.12-ensenada-10.jpg",
+    "title": "Ensenada, Mexico",
+    "description": "December 2021",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/ensenada/2021.12-ensenada-11.jpg",
+    "title": "Ensenada, Mexico",
+    "description": "December 2021",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/ensenada/2021.12-ensenada-12.jpg",
+    "title": "Ensenada, Mexico",
+    "description": "December 2021",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/ensenada/2021.12-ensenada-13.jpg",
+    "title": "Ensenada, Mexico",
+    "description": "December 2021",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
+  },
+  {
+    "src": "/assets/images/journey/ensenada/2021.12-ensenada-20.jpg",
+    "title": "Ensenada, Mexico",
+    "description": "December 2021",
+    "gallery": "gallery-friends",
+    "filter": "filter-friends"
   }
 ]

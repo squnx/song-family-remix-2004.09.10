@@ -1650,5 +1650,131 @@
     "description": "June 2012",
     "gallery": "activity-golf",
     "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2012.11-golf-01.jpg",
+    "title": "Candid Moments",
+    "description": "November 2012",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2012.11-golf-02.jpg",
+    "title": "Candid Moments",
+    "description": "November 2012",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2012.11-golf-03.jpg",
+    "title": "Candid Moments",
+    "description": "November 2012",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/activity/golf/2012.11-golf-04.jpg",
+    "title": "Candid Moments",
+    "description": "November 2012",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2012.11-kraemer-01.jpg",
+    "title": "Saxophone",
+    "description": "November 2012",
+    "gallery": "activity-instruments",
+    "filter": "filter-instruments"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2012.11-kraemer-02.jpg",
+    "title": "Saxophone",
+    "description": "November 2012",
+    "gallery": "activity-instruments",
+    "filter": "filter-instruments"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2012.11-kraemer-03.jpg",
+    "title": "Saxophone",
+    "description": "November 2012",
+    "gallery": "activity-instruments",
+    "filter": "filter-instruments"
+  },
+  {
+    "src": "/assets/images/gallery/milestones/2012.11-kraemer-04.jpg",
+    "title": "Saxophone",
+    "description": "November 2012",
+    "gallery": "activity-instruments",
+    "filter": "filter-instruments"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2012.12-soccer-01.jpg",
+    "title": "Soccer",
+    "description": "December 2012",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2012.12-soccer-02.jpg",
+    "title": "Soccer",
+    "description": "December 2012",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2012.12-soccer-03.jpg",
+    "title": "Soccer",
+    "description": "December 2012",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2012.12-soccer-04.jpg",
+    "title": "Soccer",
+    "description": "December 2012",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2012.12-soccer-05.jpg",
+    "title": "Soccer",
+    "description": "December 2012",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2012.12-soccer-06.jpg",
+    "title": "Soccer",
+    "description": "December 2012",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/activity/soccer/2012.12-soccer-07.jpg",
+    "title": "Soccer",
+    "description": "December 2012",
+    "gallery": "activity-soccer",
+    "filter": "filter-soccer"
+  },
+  {
+    "src": "/assets/images/journey/ensenada/2021.12-ensenada-04.jpg",
+    "title": "Bajamar Ocean Front Golf Club",
+    "description": "December 2021",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/journey/ensenada/2021.12-ensenada-13.jpg",
+    "title": "Baja Country Club",
+    "description": "December 2021",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
+  },
+  {
+    "src": "/assets/images/journey/ensenada/2021.12-ensenada-15.jpg",
+    "title": "Baja Country Club",
+    "description": "December 2021",
+    "gallery": "activity-golf",
+    "filter": "filter-golf"
   }
 ]

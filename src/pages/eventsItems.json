@@ -397,5 +397,12 @@
     "description": "June 2012",
     "gallery": "activity-andy",
     "filter": "filter-andy"
+  },
+  {
+    "src": "/assets/images/events/grandpa/2012.10-memorial-day.jpg",
+    "title": "Grandpa's Memorial Day",
+    "description": "October 2012",
+    "gallery": "events-grandpa",
+    "filter": "filter-grandpa"
   }
 ]
