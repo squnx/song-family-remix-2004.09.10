@@ -28,18 +28,19 @@ const California = () => {
       {/* California Section */}
       <section id="gallery" className="gallery section">
         <div className="container section-title" data-aos="fade-up">
-          <h2>USA</h2>
+          <h2>California</h2>
           {/* <p>Discovering New Horizons</p> */}
         </div>
         <div className="container">
-          <div className="isotope-layout" data-default-filter=".filter-california" data-layout="masonry" data-sort="original-order">
+          <div className="isotope-layout" data-default-filter=".filter-camping" data-layout="masonry" data-sort="original-order">
             <ul className="gallery-filters isotope-filters sticky-filters" data-aos="fade-up" data-aos-delay="100">
               {/* <li data-filter="*" className="filter-active">All</li> */}
-              <li data-filter=".filter-la-oc" onClick={handleFilterClick}>LA/OC</li>
-              <li data-filter=".filter-pacific-coast" onClick={handleFilterClick} className="filter-active">Pacific Coast</li>
-              <li data-filter=".filter-yosemite" onClick={handleFilterClick}>Yosemite</li>
-              <li data-filter=".filter-kings-canyon" onClick={handleFilterClick}>Kings Canyon</li>
-              {/* <li data-filter=".filter-yellowstone">Yellowstone</li> */}
+              <li data-filter=".filter-camping" onClick={handleFilterClick} className="filter-active">Camping</li>
+              <li data-filter=".filter-greater-la" onClick={handleFilterClick}>Greater LA</li>
+              <li data-filter=".filter-lake-tahoe">Lake Tahoe</li>
+              <li data-filter=".filter-pacific-coast" onClick={handleFilterClick}>Pacific Coast</li>
+              <li data-filter=".filter-san-diego" onClick={handleFilterClick}>San Diego</li>
+              <li data-filter=".filter-san-francisco" onClick={handleFilterClick}>San Francisco</li>
             </ul>
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
               {californiaItems.map((item, index) => (

@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import unitedstatesItems from './unitedstatesItems.json';
+import americaItems from './americaItems.json';
 
 function useScript(src) {
   useEffect(() => {
@@ -13,7 +13,7 @@ function useScript(src) {
   }, [src]);
 }
 
-const UnitedStates = () => {
+const America = () => {
   useScript('/assets/js/main-useScript.js');
 
   const handleFilterClick = () => {
@@ -25,18 +25,17 @@ const UnitedStates = () => {
   
   return (
     <>
-      {/* UnitedStates Section */}
+      {/* America Section */}
       <section id="gallery" className="gallery section">
         <div className="container section-title" data-aos="fade-up">
-          <h2>USA</h2>
+          <h2>America</h2>
           {/* <p>Discovering New Horizons</p> */}
         </div>
         <div className="container">
-          <div className="isotope-layout" data-default-filter=".filter-california" data-layout="masonry" data-sort="original-order">
+          <div className="isotope-layout" data-default-filter=".filter-arizona" data-layout="masonry" data-sort="original-order">
             <ul className="gallery-filters isotope-filters sticky-filters" data-aos="fade-up" data-aos-delay="100">
               {/* <li data-filter="*" className="filter-active">All</li> */}
-              <li data-filter=".filter-arizona" onClick={handleFilterClick}>Arizona</li>
-              <li data-filter=".filter-california" onClick={handleFilterClick} className="filter-active">California</li>
+              <li data-filter=".filter-arizona" onClick={handleFilterClick} className="filter-active">Arizona</li>
               <li data-filter=".filter-georgia" onClick={handleFilterClick}>Georgia</li>
               <li data-filter=".filter-hawaii" onClick={handleFilterClick}>Hawaii</li>
               <li data-filter=".filter-nevada" onClick={handleFilterClick}>Nevada</li>
@@ -45,7 +44,7 @@ const UnitedStates = () => {
               <li data-filter=".filter-wyoming" onClick={handleFilterClick}>Wyoming</li>
             </ul>
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
-              {unitedstatesItems.map((item, index) => (
+              {americaItems.map((item, index) => (
                 <div key={index} className={`col-lg-3 col-md-4 col-sm-6 gallery-item isotope-item ${item.filter}`}>
                 {/* <div key={index} className={`col-lg-2 col-md-3 col-sm-4 gallery-item isotope-item ${item.filter}`}> */}
                   <img src={item.src} className="img-fluid" alt="" />
@@ -65,4 +64,4 @@ const UnitedStates = () => {
   )
 }
 
-export default UnitedStates;
+export default America;
