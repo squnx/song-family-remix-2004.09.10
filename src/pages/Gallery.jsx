@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
 import galleryItems from './galleryItems.json';
+import LazyLoad from 'react-lazy-load'; // Import LazyLoad
 
 function useScript(src) {
   useEffect(() => {
@@ -43,8 +44,9 @@ const Gallery = () => {
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
               {galleryItems.map((item, index) => (
                 <div key={index} className={`col-lg-3 col-md-4 col-sm-6 gallery-item isotope-item ${item.filter}`}>
-                  {/* <div key={index} className={`col-lg-2 col-md-3 col-sm-4 gallery-item isotope-item ${item.filter}`}> */}
-                  <img src={item.src} loading="lazy" className="img-fluid" alt="" />
+                  <LazyLoad offset={300} placeholder={<div className="img-placeholder" style={{ backgroundColor: '#f0f0f0', width: '100%', height: '100px' }}></div>}>
+                    <img src={item.src} className="img-fluid" alt={item.title} />
+                  </LazyLoad>
                   <div className="gallery-info">
                     <h4>{item.title}</h4>
                     <p>{item.description}</p>
@@ -61,4 +63,4 @@ const Gallery = () => {
   )
 }
 
-export default Gallery
+export default Gallery;
