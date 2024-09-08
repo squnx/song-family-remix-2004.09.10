@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import galleryItems from './galleryItems.json';
-import LazyLoad from 'react-lazy-load'; // Import LazyLoad
+import LazyImage from '../components/LazyImage'; // Import the LazyImage component
 
 function useScript(src) {
   useEffect(() => {
@@ -30,12 +30,10 @@ const Gallery = () => {
       <section id="gallery" className="gallery section">
         <div className="container section-title" data-aos="fade-up">
           <h2>Gallery</h2>
-          {/* <p>Discovering New Horizons</p> */}
         </div>
         <div className="container">
           <div className="isotope-layout" data-default-filter=".filter-family" data-layout="masonry" data-sort="original-order">
             <ul className="gallery-filters isotope-filters sticky-filters" data-aos="fade-up" data-aos-delay="100">
-              {/* <li data-filter="*" className="filter-active">All</li> */}
               <li data-filter=".filter-family" onClick={handleFilterClick} className="filter-active">Family</li>
               <li data-filter=".filter-friends" onClick={handleFilterClick}>Friends</li>
               <li data-filter=".filter-houses" onClick={handleFilterClick}>Houses</li>
@@ -44,14 +42,14 @@ const Gallery = () => {
             <div className="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
               {galleryItems.map((item, index) => (
                 <div key={index} className={`col-lg-3 col-md-4 col-sm-6 gallery-item isotope-item ${item.filter}`}>
-                  <LazyLoad offset={300} placeholder={<div className="img-placeholder" style={{ backgroundColor: '#f0f0f0', width: '100%', height: '100px' }}></div>}>
-                    <img src={item.src} className="img-fluid" alt={item.title} />
-                  </LazyLoad>
+                  {/* Use LazyImage for lazy loading */}
+                  <LazyImage src={item.src} alt={item.title} className="img-fluid" />
                   <div className="gallery-info">
                     <h4>{item.title}</h4>
                     <p>{item.description}</p>
-                    <a href={item.src} title={item.title} data-gallery={item.gallery} className="glightbox preview-link"><i className="bi bi-zoom-in"></i></a>
-                    {/* <a href="gallery-details.html" title="More Details" className="details-link"><i className="bi bi-link-45deg"></i></a> */}
+                    <a href={item.src} title={item.title} data-gallery={item.gallery} className="glightbox preview-link">
+                      <i className="bi bi-zoom-in"></i>
+                    </a>
                   </div>
                 </div>
               ))}
@@ -60,7 +58,7 @@ const Gallery = () => {
         </div>
       </section>
     </>
-  )
-}
+  );
+};
 
 export default Gallery;
